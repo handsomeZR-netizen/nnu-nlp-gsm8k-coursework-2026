@@ -1,0 +1,28 @@
+{
+  "run_name": "transformer_final_only_v2_4060",
+  "best_epoch": 5,
+  "best_dev_strict_acc": 0.02540106951871658,
+  "best_dev_loss": 1.2721095373457236,
+  "latest": {
+    "epoch": 11,
+    "train_loss": 1.209255,
+    "dev_loss": 1.290802,
+    "dev_strict_acc": 0.014706,
+    "dev_fallback_acc": 0.014706,
+    "dev_format_rate": 1.0,
+    "gpu_max_mem_gb": 0.624,
+    "lr": 0.000215
+  },
+  "test_metrics": {
+    "num_samples": 1319,
+    "strict_final_answer_acc": 0.03184230477634572,
+    "fallback_final_answer_acc": 0.03184230477634572,
+    "format_rate": 1.0
+  },
+  "dev_metrics": {
+    "num_samples": 748,
+    "strict_final_answer_acc": 0.02540106951871658,
+    "fallback_final_answer_acc": 0.02540106951871658,
+    "format_rate": 1.0
+  }
+}

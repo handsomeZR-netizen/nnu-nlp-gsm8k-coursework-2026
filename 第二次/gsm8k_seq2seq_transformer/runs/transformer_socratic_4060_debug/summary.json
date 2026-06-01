@@ -1,0 +1,15 @@
+{
+  "run_name": "transformer_socratic_4060_debug",
+  "best_epoch": 1,
+  "best_dev_strict_acc": 0.0,
+  "best_dev_loss": 9.314948372010138,
+  "latest": {
+    "epoch": 1,
+    "train_loss": 9.477793,
+    "dev_loss": 9.314948,
+    "dev_strict_acc": 0.0,
+    "dev_fallback_acc": 0.0,
+    "dev_format_rate": 0.0,
+    "gpu_max_mem_gb": 0.728
+  }
+}

@@ -1,0 +1,46 @@
+run_name: transformer_final_only_v2_4060
+seed: 42
+
+paths:
+  data_dir: data_final_only
+  run_root: runs
+
+dataset:
+  name: openai/gsm8k
+  config: socratic
+  dev_ratio: 0.1
+  target_mode: final_only
+
+tokenizer:
+  lowercase: true
+  min_freq: 1
+  max_src_len: 220
+  max_tgt_len: 32
+
+model:
+  d_model: 256
+  nhead: 8
+  encoder_layers: 4
+  decoder_layers: 4
+  dim_feedforward: 1024
+  dropout: 0.1
+  max_position: 256
+
+training:
+  batch_size: 32
+  grad_accum_steps: 2
+  epochs: 20
+  optimizer: adamw
+  lr: 0.0004
+  min_lr: 0.00003
+  scheduler: cosine
+  label_smoothing: 0.0
+  weight_decay: 0.0001
+  grad_clip: 1.0
+  amp: true
+  early_stop_patience: 6
+  decode_batch_size: 64
+
+decoding:
+  method: greedy
+  max_len: 16

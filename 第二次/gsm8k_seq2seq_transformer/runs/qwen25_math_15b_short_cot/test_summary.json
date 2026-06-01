@@ -1,0 +1,16 @@
+{
+  "run_name": "qwen25_math_15b_short_cot",
+  "model_name": "Qwen/Qwen2.5-Math-1.5B-Instruct",
+  "data_path": "data\\test.jsonl",
+  "prediction_file": "test_predictions.jsonl",
+  "dtype": "float16",
+  "prompt_style": "short_cot",
+  "elapsed_sec": 96.907,
+  "format_normalized_count": 1,
+  "num_samples": 5,
+  "strict_final_answer_acc": 0.0,
+  "fallback_final_answer_acc": 0.2,
+  "format_rate": 0.2,
+  "cuda_max_memory_allocated_gib": 2.898,
+  "cuda_max_memory_reserved_gib": 3.086
+}

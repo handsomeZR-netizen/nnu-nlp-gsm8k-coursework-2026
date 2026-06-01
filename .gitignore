@@ -1,0 +1,68 @@
+# Python caches and local environments
+__pycache__/
+*.py[cod]
+*$py.class
+.venv/
+venv/
+env/
+ENV/
+.env
+.env.*
+conda-meta/
+site-packages/
+
+# Notebook, IDE and OS files
+.ipynb_checkpoints/
+.idea/
+.vscode/
+.DS_Store
+Thumbs.db
+
+# Hugging Face / model caches
+.cache/
+**/.cache/
+huggingface/
+hf_cache/
+**/hf_cache/
+**/models--*/
+**/snapshots/
+**/blobs/
+
+# Large model checkpoints and training artifacts
+*.pt
+*.pth
+*.ckpt
+*.safetensors
+*.bin
+*.onnx
+*.gguf
+**/checkpoint*/
+**/best_model/
+**/optimizer.pt
+**/scheduler.pt
+**/rng_state*.pth
+wandb/
+tensorboard/
+
+# LaTeX intermediate files; keep generated PDFs
+*.aux
+*.bbl
+*.bcf
+*.blg
+*.fdb_latexmk
+*.fls
+*.lof
+*.log
+*.lot
+*.out
+*.run.xml
+*.synctex.gz
+*.toc
+*.xdv
+
+# Temporary generated previews
+preview_pages/
+*_preview/
+tmp/
+temp/
+*.tmp

@@ -1,0 +1,6 @@
+model,num_samples,avg_score_0_to_2,llm_reasoning_validity,score_2_rate,score_1_rate,score_0_rate
+DeepSeek_v4_flash,100,1.92,0.96,0.95,0.02,0.03
+DeepSeek_v4_pro,100,1.9,0.95,0.94,0.02,0.04
+Local_Qwen25_Math_15B_CoT,100,1.66,0.83,0.74,0.18,0.08
+RNN_full,100,0.01,0.005,0.0,0.01,0.99
+Transformer_full,100,0.0,0.0,0.0,0.0,1.0

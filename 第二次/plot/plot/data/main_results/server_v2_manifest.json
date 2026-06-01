@@ -1,0 +1,26 @@
+{
+  "seed": 11,
+  "folds": 5,
+  "epochs": 160,
+  "batch_size": 256,
+  "n_rows": 1000,
+  "proxy_rows": 129,
+  "blocks": {
+    "layout64": 64,
+    "visual_handcrafted": 73,
+    "layout64_visual_handcrafted": 137,
+    "clip512": 512,
+    "layout64_clip512": 576,
+    "clip512_visual_handcrafted": 585,
+    "layout64_clip512_visual_handcrafted": 649
+  },
+  "outputs": [
+    "server_v2_feature_summary.csv",
+    "server_v2_cv_metrics.csv",
+    "server_v2_cv_summary.csv",
+    "server_v2_tier_metrics.csv",
+    "server_v2_tier_summary.csv",
+    "server_v2_transfer_metrics.csv",
+    "server_v2_transfer_summary.csv"
+  ]
+}

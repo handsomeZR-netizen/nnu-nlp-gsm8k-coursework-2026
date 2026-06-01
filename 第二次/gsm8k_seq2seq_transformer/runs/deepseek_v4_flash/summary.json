@@ -1,0 +1,17 @@
+{
+  "model": "deepseek-v4-flash",
+  "base_url": "https://api.deepseek.com",
+  "prediction_file": "test_predictions.jsonl",
+  "prompt_style": "cache_few_shot",
+  "workers": 20,
+  "max_tokens": 1024,
+  "num_samples": 1319,
+  "strict_final_answer_acc": 0.9461713419257013,
+  "fallback_final_answer_acc": 0.9461713419257013,
+  "format_rate": 1.0,
+  "prompt_tokens": 495959,
+  "completion_tokens": 377843,
+  "prompt_cache_hit_tokens": 368640,
+  "prompt_cache_miss_tokens": 127319,
+  "prompt_cache_hit_rate": 0.7432872475345744
+}

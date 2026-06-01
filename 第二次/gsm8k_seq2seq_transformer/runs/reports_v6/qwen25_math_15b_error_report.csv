@@ -1,0 +1,5 @@
+error_type,count,ratio
+correct,1054,0.79909
+format_missing_but_fallback_correct,7,0.005307
+missing_final_marker,54,0.04094
+wrong_final_no_equation,204,0.154663

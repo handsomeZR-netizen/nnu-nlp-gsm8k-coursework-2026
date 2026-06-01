@@ -1,0 +1,16 @@
+{
+  "run_name": "attn_socratic_4060_debug",
+  "best_epoch": 2,
+  "best_dev_strict_acc": 0.0,
+  "best_dev_loss": 5.076815605163574,
+  "latest": {
+    "epoch": 2,
+    "train_loss": 5.003044,
+    "dev_loss": 5.076816,
+    "dev_strict_acc": 0.0,
+    "dev_fallback_acc": 0.0,
+    "dev_format_rate": 0.0,
+    "teacher_forcing_ratio": 0.5,
+    "gpu_max_mem_gb": 4.533
+  }
+}

@@ -1,0 +1,11 @@
+model,display_name,method_group,num_samples,bleu4,rouge_l,final_answer_acc,fallback_acc,format_rate,equation_coverage,equation_step_acc,equation_all_correct_rate
+RNN_full,RNN full,RNN,1319,0.129968,0.389191,0.025019,0.025777,0.903715,0.939348,0.074517,0.020178
+Transformer_full,Transformer full,Transformer,1319,0.053301,0.193792,0.004549,0.006823,0.245641,0.415466,0.034143,0.007299
+RNN_final_only,RNN final-only,RNN,1319,0.0,0.047052,0.028052,0.028052,1.0,0.0,0.0,0.0
+RNN_final_opt_beam5,RNN final opt beam5,RNN optimized,1319,0.0,0.026181,0.025777,0.025777,1.0,0.0,0.0,0.0
+Transformer_final_only,Transformer final-only,Transformer,1319,0.0,0.021786,0.031842,0.031842,1.0,0.0,0.0,0.0
+Transformer_final_opt,Transformer final opt,Transformer optimized,1319,0.0,0.037787,0.034875,0.034875,1.0,0.0,0.0,0.0
+Transformer_final_v2,Transformer final v2,Transformer optimized,1319,0.0,0.029195,0.031842,0.031842,1.0,0.0,0.0,0.0
+Pretrained_T5_small_final,Pretrained T5-small final,Pretrained Transformer,1319,0.0,0.028251,0.041698,0.041698,1.0,0.0,0.0,0.0
+Pretrained_T5_base_final,Pretrained T5-base final,Pretrained Transformer,1319,0.0,0.027939,0.051554,0.051554,1.0,0.0,0.0,0.0
+Dev_tuned_ensemble,Dev-tuned ensemble,Ensemble,1319,0.0,0.027939,0.051554,0.051554,1.0,0.0,0.0,0.0

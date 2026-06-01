@@ -1,0 +1,50 @@
+{
+  "source": "Book Dash book source files",
+  "source_url": "https://bookdash.org/book-source-files/",
+  "license_note": "Book Dash source page describes the books as CC BY 4.0 open content.",
+  "books": 30,
+  "original_pages": 180,
+  "variants_total": 1260,
+  "degradation_types": [
+    "contrast_loss",
+    "content_crop",
+    "occluding_prompt",
+    "clutter_controls",
+    "tiny_text_band",
+    "overlap_text_block"
+  ],
+  "zero_shot_regression_overall": {
+    "degradation_type": "overall",
+    "score_name": "public_regression_score",
+    "n_pairs": 1080,
+    "ranking_accuracy": 0.5601851851851852,
+    "ranking_ci_low": 0.5305555555555556,
+    "ranking_ci_high": 0.587986111111111,
+    "mean_score_drop": 0.01779189371432169,
+    "score_drop_ci_low": 0.012623447383652396,
+    "score_drop_ci_high": 0.02289472613035007,
+    "median_score_drop": 0.008375944822375025,
+    "paired_t_p_greater": 3.505191498304137e-12,
+    "wilcoxon_p_greater": 1.7856340802448921e-09
+  },
+  "zero_shot_screening_overall": {
+    "degradation_type": "overall",
+    "score_name": "public_screening_score",
+    "n_pairs": 1080,
+    "ranking_accuracy": 0.5175925925925926,
+    "ranking_ci_low": 0.487962962962963,
+    "ranking_ci_high": 0.5472222222222223,
+    "mean_score_drop": 0.005704069223550094,
+    "score_drop_ci_low": 0.0025542582244695634,
+    "score_drop_ci_high": 0.008802773339946227,
+    "median_score_drop": 0.0011815071576092295,
+    "paired_t_p_greater": 9.48771003467172e-05,
+    "wilcoxon_p_greater": 0.001161163833661292
+  },
+  "detector_overall": {
+    "subset": "overall",
+    "n": 1260,
+    "auc": 0.9239557613168725,
+    "balanced_accuracy": 0.7194444444444444
+  }
+}

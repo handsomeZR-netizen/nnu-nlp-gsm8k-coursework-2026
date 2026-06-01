@@ -1,0 +1,4 @@
+epoch,train_loss,dev_strict_acc,dev_fallback_acc,dev_format_rate
+1,1.013217,0.045455,0.045455,1.0
+2,0.91647,0.05615,0.05615,1.0
+3,0.874058,0.053476,0.053476,1.0

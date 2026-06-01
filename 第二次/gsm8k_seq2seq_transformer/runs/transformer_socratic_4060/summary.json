@@ -1,0 +1,21 @@
+{
+  "run_name": "transformer_socratic_4060",
+  "best_epoch": 7,
+  "best_dev_strict_acc": 0.008021390374331552,
+  "best_dev_loss": 2.5436148159409173,
+  "latest": {
+    "epoch": 10,
+    "train_loss": 2.210197,
+    "dev_loss": 2.410796,
+    "dev_strict_acc": 0.002674,
+    "dev_fallback_acc": 0.005348,
+    "dev_format_rate": 0.17246,
+    "gpu_max_mem_gb": 0.947
+  },
+  "test_metrics": {
+    "num_samples": 1319,
+    "strict_final_answer_acc": 0.004548900682335102,
+    "fallback_final_answer_acc": 0.006823351023502654,
+    "format_rate": 0.24564063684609552
+  }
+}

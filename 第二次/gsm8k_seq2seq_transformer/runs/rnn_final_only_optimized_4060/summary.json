@@ -1,0 +1,46 @@
+{
+  "run_name": "rnn_final_only_optimized_4060",
+  "best_epoch": 5,
+  "best_dev_strict_acc": 0.03074866310160428,
+  "best_dev_loss": 1.4128723477286504,
+  "latest": {
+    "epoch": 10,
+    "train_loss": 0.895574,
+    "dev_loss": 1.683593,
+    "dev_strict_acc": 0.020053,
+    "dev_fallback_acc": 0.020053,
+    "dev_format_rate": 1.0,
+    "teacher_forcing_ratio": 0.807143,
+    "gpu_max_mem_gb": 0.611
+  },
+  "test_metrics": {
+    "num_samples": 1319,
+    "strict_final_answer_acc": 0.024260803639120546,
+    "fallback_final_answer_acc": 0.024260803639120546,
+    "format_rate": 1.0
+  },
+  "dev_metrics_beam3": {
+    "num_samples": 748,
+    "strict_final_answer_acc": 0.034759358288770054,
+    "fallback_final_answer_acc": 0.034759358288770054,
+    "format_rate": 1.0
+  },
+  "test_metrics_beam3": {
+    "num_samples": 1319,
+    "strict_final_answer_acc": 0.025018953752843062,
+    "fallback_final_answer_acc": 0.025018953752843062,
+    "format_rate": 1.0
+  },
+  "test_metrics_beam5": {
+    "num_samples": 1319,
+    "strict_final_answer_acc": 0.02577710386656558,
+    "fallback_final_answer_acc": 0.02577710386656558,
+    "format_rate": 1.0
+  },
+  "dev_metrics_beam5": {
+    "num_samples": 748,
+    "strict_final_answer_acc": 0.034759358288770054,
+    "fallback_final_answer_acc": 0.034759358288770054,
+    "format_rate": 1.0
+  }
+}

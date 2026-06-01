@@ -1,0 +1,9 @@
+{
+  "test_google_flan_t5_base_100": {
+    "model_name": "google/flan-t5-base",
+    "num_samples": 100,
+    "strict_final_answer_acc": 0.0,
+    "fallback_final_answer_acc": 0.03,
+    "format_rate": 0.0
+  }
+}

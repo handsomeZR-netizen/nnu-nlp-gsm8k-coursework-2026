@@ -1,0 +1,28 @@
+{
+  "run_name": "attn_main_4060",
+  "best_epoch": 3,
+  "best_dev_strict_acc": 0.014705882352941176,
+  "best_dev_loss": 2.425602049322439,
+  "latest": {
+    "epoch": 4,
+    "train_loss": 2.970923,
+    "dev_loss": 2.452139,
+    "dev_strict_acc": 0.014706,
+    "dev_fallback_acc": 0.016043,
+    "dev_format_rate": 0.903743,
+    "teacher_forcing_ratio": 0.5,
+    "gpu_max_mem_gb": 3.497
+  },
+  "dev_metrics": {
+    "num_samples": 748,
+    "strict_final_answer_acc": 0.014705882352941176,
+    "fallback_final_answer_acc": 0.016042780748663103,
+    "format_rate": 0.8756684491978609
+  },
+  "test_metrics": {
+    "num_samples": 1319,
+    "strict_final_answer_acc": 0.025018953752843062,
+    "fallback_final_answer_acc": 0.02577710386656558,
+    "format_rate": 0.8559514783927218
+  }
+}

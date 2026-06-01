@@ -1,0 +1,16 @@
+{
+  "model": "deepseek-v4-pro",
+  "prediction_file": "runs\\deepseek_v4_pro\\test_predictions.jsonl",
+  "prompt_style": "cache_few_shot",
+  "workers": 20,
+  "max_tokens": 1024,
+  "num_samples": 1303,
+  "strict_final_answer_acc": 0.9501151189562548,
+  "fallback_final_answer_acc": 0.9501151189562548,
+  "format_rate": 1.0,
+  "prompt_tokens": 489858,
+  "completion_tokens": 411233,
+  "prompt_cache_hit_tokens": 347008,
+  "prompt_cache_miss_tokens": 142850,
+  "prompt_cache_hit_rate": 0.7083848788832682
+}

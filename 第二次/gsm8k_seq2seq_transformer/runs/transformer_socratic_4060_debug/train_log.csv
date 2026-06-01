@@ -1,0 +1,2 @@
+epoch,train_loss,dev_loss,dev_strict_acc,dev_fallback_acc,dev_format_rate,gpu_max_mem_gb
+1,9.477793,9.314948,0.0,0.0,0.0,0.728

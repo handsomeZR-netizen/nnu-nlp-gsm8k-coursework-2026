@@ -1,0 +1,4 @@
+split,num_samples,avg_src_len,avg_tgt_len,p95_src_len,p95_tgt_len,max_src_len,max_tgt_len,trunc_rate
+train,6725,54.87,5.31,94,7,206,12,0.0
+dev,748,55.7,5.27,96,7,152,9,0.0
+test,1319,56.39,5.28,96,7,184,10,0.0

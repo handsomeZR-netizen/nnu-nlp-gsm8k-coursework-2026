@@ -1,0 +1,17 @@
+{
+  "run_name": "flan_t5_small_finetuned_final_fp32",
+  "model_name": "google/flan-t5-small",
+  "best_dev_strict_acc": 0.04679144385026738,
+  "dev_metrics": {
+    "num_samples": 748,
+    "strict_final_answer_acc": 0.04679144385026738,
+    "fallback_final_answer_acc": 0.04679144385026738,
+    "format_rate": 1.0
+  },
+  "test_metrics": {
+    "num_samples": 1319,
+    "strict_final_answer_acc": 0.04169825625473844,
+    "fallback_final_answer_acc": 0.04169825625473844,
+    "format_rate": 1.0
+  }
+}

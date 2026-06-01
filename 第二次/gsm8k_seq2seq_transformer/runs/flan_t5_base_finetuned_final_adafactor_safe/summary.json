@@ -1,0 +1,17 @@
+{
+  "run_name": "flan_t5_base_finetuned_final_adafactor_safe",
+  "model_name": "google/flan-t5-base",
+  "best_dev_strict_acc": 0.05614973262032086,
+  "dev_metrics": {
+    "num_samples": 748,
+    "strict_final_answer_acc": 0.05614973262032086,
+    "fallback_final_answer_acc": 0.05614973262032086,
+    "format_rate": 1.0
+  },
+  "test_metrics": {
+    "num_samples": 1319,
+    "strict_final_answer_acc": 0.05155420773313116,
+    "fallback_final_answer_acc": 0.05155420773313116,
+    "format_rate": 1.0
+  }
+}

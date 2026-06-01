@@ -1,0 +1,7 @@
+run_id,run_name,dataset_config,target,attention,decoding,best_epoch,dev_strict_acc,test_strict_acc,test_fallback_acc,test_format_rate
+R0,final_only_socratic_4060,socratic,final_only,bahdanau,greedy,2,0.026738,0.028052,0.028052,1.000000
+R1,no_attn_socratic_4060,socratic,full_socratic,none,greedy,3,0.012032,0.011372,0.012130,0.746020
+R2,attn_socratic_4060,socratic,full_socratic,bahdanau,greedy,2,0.012032,0.025019,0.025777,0.903715
+R3,attn_socratic_4060,socratic,full_socratic,bahdanau,beam5,2,0.009358,0.022745,0.022745,0.959818
+R4,attn_main_4060,main,full_main,bahdanau,greedy,3,0.014706,0.025019,0.025777,0.855951
+R5,flan_t5_small_finetuned_final_fp32,socratic,final_only,pretrained_t5,beam4,4,0.046791,0.041698,0.041698,1.000000

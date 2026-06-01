@@ -1,0 +1,40 @@
+{
+  "run_name": "attn_socratic_4060",
+  "best_epoch": 2,
+  "best_dev_strict_acc": 0.012032085561497326,
+  "best_dev_loss": 2.366018,
+  "latest": {
+    "epoch": 4,
+    "train_loss": 2.72173,
+    "dev_loss": 2.304979,
+    "dev_strict_acc": 0.005348,
+    "dev_fallback_acc": 0.008021,
+    "dev_format_rate": 0.864973,
+    "teacher_forcing_ratio": 0.5,
+    "gpu_max_mem_gb": 6.749
+  },
+  "test_metrics": {
+    "num_samples": 1319,
+    "strict_final_answer_acc": 0.025018953752843062,
+    "fallback_final_answer_acc": 0.02577710386656558,
+    "format_rate": 0.9037149355572404
+  },
+  "dev_metrics": {
+    "num_samples": 748,
+    "strict_final_answer_acc": 0.012032085561497326,
+    "fallback_final_answer_acc": 0.013368983957219251,
+    "format_rate": 0.9050802139037433
+  },
+  "dev_metrics_beam5": {
+    "num_samples": 748,
+    "strict_final_answer_acc": 0.009358288770053475,
+    "fallback_final_answer_acc": 0.009358288770053475,
+    "format_rate": 0.9652406417112299
+  },
+  "test_metrics_beam5": {
+    "num_samples": 1319,
+    "strict_final_answer_acc": 0.022744503411675512,
+    "fallback_final_answer_acc": 0.022744503411675512,
+    "format_rate": 0.9598180439727066
+  }
+}

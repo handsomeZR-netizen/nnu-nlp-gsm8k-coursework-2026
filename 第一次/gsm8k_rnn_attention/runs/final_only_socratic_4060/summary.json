@@ -1,0 +1,28 @@
+{
+  "run_name": "final_only_socratic_4060",
+  "best_epoch": 2,
+  "best_dev_strict_acc": 0.026737967914438502,
+  "best_dev_loss": 1.3312320023551023,
+  "latest": {
+    "epoch": 5,
+    "train_loss": 1.340933,
+    "dev_loss": 1.383731,
+    "dev_strict_acc": 0.01738,
+    "dev_fallback_acc": 0.01738,
+    "dev_format_rate": 1.0,
+    "teacher_forcing_ratio": 0.6,
+    "gpu_max_mem_gb": 0.7
+  },
+  "dev_metrics": {
+    "num_samples": 748,
+    "strict_final_answer_acc": 0.026737967914438502,
+    "fallback_final_answer_acc": 0.026737967914438502,
+    "format_rate": 1.0
+  },
+  "test_metrics": {
+    "num_samples": 1319,
+    "strict_final_answer_acc": 0.028051554207733132,
+    "fallback_final_answer_acc": 0.028051554207733132,
+    "format_rate": 1.0
+  }
+}

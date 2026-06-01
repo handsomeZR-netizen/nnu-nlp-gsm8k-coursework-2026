@@ -1,0 +1,17 @@
+{
+  "run_name": "flan_t5_base_smoke_b2_adafactor",
+  "model_name": "google/flan-t5-base",
+  "best_dev_strict_acc": 0.09375,
+  "dev_metrics": {
+    "num_samples": 32,
+    "strict_final_answer_acc": 0.09375,
+    "fallback_final_answer_acc": 0.09375,
+    "format_rate": 1.0
+  },
+  "test_metrics": {
+    "num_samples": 32,
+    "strict_final_answer_acc": 0.03125,
+    "fallback_final_answer_acc": 0.03125,
+    "format_rate": 0.96875
+  }
+}

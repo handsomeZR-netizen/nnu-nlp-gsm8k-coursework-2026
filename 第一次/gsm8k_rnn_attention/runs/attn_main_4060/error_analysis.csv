@@ -1,0 +1,4 @@
+error_type,count,ratio
+correct,33,0.025
+missing_final_marker,190,0.144
+wrong_final_number,1096,0.8309

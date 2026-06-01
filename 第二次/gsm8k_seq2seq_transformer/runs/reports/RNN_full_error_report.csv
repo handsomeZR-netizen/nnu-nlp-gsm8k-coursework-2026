@@ -1,0 +1,7 @@
+error_type,count,ratio
+correct,33,0.025019
+format_missing_but_fallback_correct,1,0.000758
+missing_final_marker,126,0.095527
+wrong_final_equations_self_consistent,21,0.015921
+wrong_final_no_equation,1,0.000758
+wrong_final_with_bad_equation,1137,0.862017

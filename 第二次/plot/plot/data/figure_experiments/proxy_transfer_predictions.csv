@@ -1,0 +1,130 @@
+true_quality,pred_layout_hand_rf,model,row_id,ui_number,category,app_package,is_education_reading
+5.666666666666667,5.858854166666669,Layout+handcrafted visual RF,2,67,Education,gov.nasa,True
+5.333333333333333,5.678204034391539,Layout+handcrafted visual RF,7,342,Books & Reference,com.ghstudios.android.mhgendatabase,True
+5.666666666666667,5.7874581128747735,Layout+handcrafted visual RF,11,662,Education,com.coderzheaven.englishtenses,True
+5.0,5.812340277777776,Layout+handcrafted visual RF,13,802,Education,com.twolittlehands,True
+5.666666666666667,5.83929112554112,Layout+handcrafted visual RF,17,1134,Education,com.scholly.scholarshipsearch,True
+6.666666666666667,5.487324239417989,Layout+handcrafted visual RF,49,3361,Comics,com.Feng.LingCrazyLockScreen,True
+6.666666666666667,5.839489748677256,Layout+handcrafted visual RF,50,3647,Books & Reference,com.tinashe.sdah,True
+6.333333333333333,5.8795429894179865,Layout+handcrafted visual RF,52,3753,Education,com.japanactivator.android.jasensei,True
+6.0,5.915274360670194,Layout+handcrafted visual RF,54,3947,Comics,com.collectorz.javamobile.android.comics,True
+5.333333333333333,5.840855599647261,Layout+handcrafted visual RF,65,4439,Education,com.memory.brain.training.games,True
+6.0,5.669194995590833,Layout+handcrafted visual RF,75,5150,Comics,com.iconology.comics,True
+5.333333333333333,5.760642085537926,Layout+handcrafted visual RF,76,5152,Comics,com.iconology.comics,True
+5.666666666666667,5.555292548500884,Layout+handcrafted visual RF,77,5206,Comics,net.androidcomics.acv,True
+7.0,5.787591269841277,Layout+handcrafted visual RF,82,5514,Books & Reference,com.prestigio.ereader,True
+6.0,5.729136283469621,Layout+handcrafted visual RF,92,6461,Education,com.josh.jagran.android.activity,True
+5.666666666666667,5.8036013558201045,Layout+handcrafted visual RF,100,6944,Comics,com.viewer.comicscreen,True
+5.333333333333333,5.633680114638452,Layout+handcrafted visual RF,101,6966,Comics,com.viewer.comicscreen,True
+5.666666666666667,5.880400132275125,Layout+handcrafted visual RF,115,7720,Education,com.sage.ljp,True
+6.0,5.790879629629627,Layout+handcrafted visual RF,119,7948,Books & Reference,com.pleco.chinesesystem,True
+6.0,5.6919003126503185,Layout+handcrafted visual RF,121,8214,Education,yumugee.education.dailyenglishexercises,True
+5.0,5.701958553791886,Layout+handcrafted visual RF,138,9560,Education,com.nso,True
+5.666666666666667,5.88781845238095,Layout+handcrafted visual RF,146,9960,Education,com.meritnation.school,True
+5.666666666666667,5.901234126984132,Layout+handcrafted visual RF,166,11339,Books & Reference,com.awestruckstudios.pkmn,True
+5.0,5.761084656084658,Layout+handcrafted visual RF,167,11363,Books & Reference,wp.wattpad,True
+4.666666666666667,5.874473544973544,Layout+handcrafted visual RF,172,11585,Education,com.bravolang.spanish,True
+6.0,5.743962962962965,Layout+handcrafted visual RF,174,11815,Books & Reference,com.hmobile.biblekjv,True
+6.333333333333333,5.799223544973544,Layout+handcrafted visual RF,177,12027,Books & Reference,com.neptuns.usefulfishingknots,True
+6.0,5.70680665784832,Layout+handcrafted visual RF,185,12597,Books & Reference,grit.storytel.app,True
+5.0,5.680950396825396,Layout+handcrafted visual RF,187,12732,Comics,com.marvel.comics,True
+5.666666666666667,5.680278108465609,Layout+handcrafted visual RF,191,12784,Books & Reference,kjvdrama.dramatizedaudio.bibledramatized,True
+5.666666666666667,5.7365789241622585,Layout+handcrafted visual RF,195,13004,Education,com.naturalsoft.naturalreader,True
+6.666666666666667,5.8175995370370375,Layout+handcrafted visual RF,196,13005,Education,com.naturalsoft.naturalreader,True
+5.333333333333333,5.8175995370370375,Layout+handcrafted visual RF,197,13013,Education,com.naturalsoft.naturalreader,True
+6.0,5.75699636243386,Layout+handcrafted visual RF,198,13016,Education,com.naturalsoft.naturalreader,True
+5.666666666666667,5.817788359788364,Layout+handcrafted visual RF,200,13156,Education,com.okramuf.musikteori,True
+6.333333333333333,5.985609307359312,Layout+handcrafted visual RF,201,13157,Education,com.okramuf.musikteori,True
+5.666666666666667,5.6789353354978385,Layout+handcrafted visual RF,205,13332,Education,com.ichi2.anki,True
+6.0,5.647993827160493,Layout+handcrafted visual RF,213,14243,Comics,de.casparwre.insult,True
+4.666666666666667,5.823117724867721,Layout+handcrafted visual RF,217,14423,Books & Reference,com.megalol.muttertag,True
+4.666666666666667,5.673261794532627,Layout+handcrafted visual RF,218,14596,Comics,com.aon.mangaareader,True
+6.0,5.792559303350976,Layout+handcrafted visual RF,223,14847,Education,com.vitalsource.bookshelf,True
+5.0,5.886508307279136,Layout+handcrafted visual RF,239,16367,Education,com.bravolol.bravolang.englishchinesecdictionary,True
+5.666666666666667,5.859648799502965,Layout+handcrafted visual RF,259,17718,Education,com.ma.ld.dict.engg,True
+6.333333333333333,5.656106922398588,Layout+handcrafted visual RF,261,18128,Comics,mx.com.miscomics.miscomicsmx,True
+5.333333333333333,5.731489197530866,Layout+handcrafted visual RF,310,21947,Education,com.zeemish.spanish,True
+6.333333333333333,5.846009755291009,Layout+handcrafted visual RF,313,22321,Books & Reference,com.fatowl.audiobible,True
+5.666666666666667,5.775649500961997,Layout+handcrafted visual RF,319,23182,Education,com.officail.BritannicaArFreeDict,True
+5.0,5.949285163139336,Layout+handcrafted visual RF,321,23441,Books & Reference,com.pentaloop.fanfiction,True
+6.333333333333333,5.721676477072312,Layout+handcrafted visual RF,324,23677,Books & Reference,com.bestweatherfor.bibleoffline_pt_ra,True
+5.666666666666667,5.731723214285717,Layout+handcrafted visual RF,326,23810,Education,com.sweefitstudios.drawgraffiti,True
+7.0,5.8459596560846565,Layout+handcrafted visual RF,332,24203,Education,com.howtodrawnew17pokemon.app,True
+6.666666666666667,5.865049052028213,Layout+handcrafted visual RF,336,24704,Books & Reference,com.mobisystems.msdict.embedded.wireless.oxford.conciseenglish,True
+6.333333333333333,5.831760251322753,Layout+handcrafted visual RF,338,24805,Comics,iStudios.fablesandfairytales,True
+5.333333333333333,5.724170745149911,Layout+handcrafted visual RF,339,25017,Education,com.developitnowadays.spanishtoenglish,True
+4.333333333333333,5.6466026635401665,Layout+handcrafted visual RF,340,25135,Books & Reference,com.aapvs.international.scarystories5.lite,True
+6.0,5.883083774250437,Layout+handcrafted visual RF,347,25638,Books & Reference,kjvbible.kingjamesbible.kjv.bible,True
+5.666666666666667,5.789042989417986,Layout+handcrafted visual RF,353,26007,Comics,com.binaryic.oshowisdom,True
+4.0,5.6178897707231075,Layout+handcrafted visual RF,360,26551,Books & Reference,jp.ne.asoft.android.gchord,True
+5.666666666666667,5.885353835978839,Layout+handcrafted visual RF,363,26804,Books & Reference,cherryapps.pokeguide,True
+6.0,5.811149911816577,Layout+handcrafted visual RF,378,27599,Books & Reference,com.goodreads,True
+5.666666666666667,5.990852843915338,Layout+handcrafted visual RF,380,27748,Education,com.duolingo,True
+6.333333333333333,6.0148732363315665,Layout+handcrafted visual RF,381,27754,Education,com.duolingo,True
+5.0,6.0158249759499824,Layout+handcrafted visual RF,382,27821,Books & Reference,com.dictionary.mr,True
+5.0,5.955073412698413,Layout+handcrafted visual RF,391,28483,Education,com.yobimi.bbclearningenglish,True
+6.0,5.949912918871253,Layout+handcrafted visual RF,420,30555,Education,com.adda247.app,True
+6.666666666666667,5.89791732804233,Layout+handcrafted visual RF,438,32013,Books & Reference,com.conem.app.pocketthesaurus,True
+5.666666666666667,5.654697089947091,Layout+handcrafted visual RF,446,32540,Books & Reference,com.aldiko.android,True
+5.333333333333333,6.0244268077601415,Layout+handcrafted visual RF,449,32937,Education,com.appcool.learnkorean,True
+5.666666666666667,5.673732142857142,Layout+handcrafted visual RF,481,34961,Comics,playmint_studio1901.stories.panchatantra,True
+6.0,5.693543430335096,Layout+handcrafted visual RF,488,35475,Comics,com.codingg.reader,True
+6.666666666666667,5.801364417989414,Layout+handcrafted visual RF,497,35861,Books & Reference,com.ahmedblog.holyquranhd,True
+5.0,5.966450727513231,Layout+handcrafted visual RF,498,36069,Education,com.NsouthProductions.gradetrackerpro,True
+5.666666666666667,5.978790343915346,Layout+handcrafted visual RF,499,36073,Education,com.NsouthProductions.gradetrackerpro,True
+6.666666666666667,5.956334656084655,Layout+handcrafted visual RF,501,36234,Books & Reference,com.bravolang.korean,True
+7.333333333333333,5.9182038239538315,Layout+handcrafted visual RF,502,36249,Books & Reference,com.bravolang.korean,True
+5.333333333333333,5.573419863315687,Layout+handcrafted visual RF,512,36822,Books & Reference,com.admobapp.flansmodforminecraft,True
+6.333333333333333,6.0064710097001734,Layout+handcrafted visual RF,521,37587,Education,com.fusionprojects.edmodo,True
+6.0,5.687862654320991,Layout+handcrafted visual RF,522,37641,Education,org.brilliant.android,True
+6.0,5.682799492945326,Layout+handcrafted visual RF,524,37939,Education,com.sololearn.csharp,True
+5.0,5.732707892416225,Layout+handcrafted visual RF,525,38163,Education,com.pluralsight,True
+6.0,5.901518077601408,Layout+handcrafted visual RF,528,38193,Education,com.chineseskill,True
+6.0,5.752798340548342,Layout+handcrafted visual RF,537,39217,Education,com.mathpapa.mathpapa,True
+6.0,5.918950396825392,Layout+handcrafted visual RF,552,40161,Education,kr.co.smartstudy.pinkfongtv_android_googlemarket,True
+5.666666666666667,5.655776124338622,Layout+handcrafted visual RF,554,40428,Books & Reference,bible.king.james.app,True
+4.666666666666667,5.6765816798941735,Layout+handcrafted visual RF,557,40527,Books & Reference,com.movinapp.dict.english.free,True
+6.333333333333333,6.067005291005291,Layout+handcrafted visual RF,574,41735,Education,com.funeasylearn.italian,True
+5.333333333333333,6.026336860670187,Layout+handcrafted visual RF,576,41789,Books & Reference,com.audubon.mobile.android,True
+5.0,5.774770943562611,Layout+handcrafted visual RF,588,42706,Education,com.classdojo.android,True
+5.333333333333333,5.670614252645496,Layout+handcrafted visual RF,605,43986,Books & Reference,com.movinapp.dict.enes.free,True
+6.0,5.711530864197533,Layout+handcrafted visual RF,610,44039,Books & Reference,com.greenleaf.android.translator.enes.a,True
+6.0,5.644693562610231,Layout+handcrafted visual RF,629,45333,Education,com.mres.schedule,True
+6.333333333333333,6.035752976190479,Layout+handcrafted visual RF,630,45373,Education,com.voxy.news,True
+6.666666666666667,5.782766794933464,Layout+handcrafted visual RF,631,45384,Education,com.rrpublication.volt.volt,True
+5.333333333333333,5.63840784832451,Layout+handcrafted visual RF,647,46444,Books & Reference,com.idelata.VerseADayFree,True
+6.0,5.9180970017636625,Layout+handcrafted visual RF,657,47007,Books & Reference,com.google.android.apps.books,True
+6.333333333333333,5.928535714285712,Layout+handcrafted visual RF,658,47012,Books & Reference,com.google.android.apps.books,True
+6.333333333333333,5.75050352733686,Layout+handcrafted visual RF,662,47137,Education,com.bc.avm,True
+5.666666666666667,5.767098544973538,Layout+handcrafted visual RF,688,48721,Books & Reference,empire.trinity.bibleapp,True
+6.0,5.650648478835982,Layout+handcrafted visual RF,703,49865,Books & Reference,com.funmeapp.wiccaerbario,True
+6.0,5.709650192400187,Layout+handcrafted visual RF,711,50286,Education,com.nclexpn.hlt,True
+5.666666666666667,5.710965939153438,Layout+handcrafted visual RF,726,51272,Education,com.sololearn,True
+5.333333333333333,5.642931878306877,Layout+handcrafted visual RF,729,51540,Books & Reference,com.biblediscovery,True
+6.666666666666667,5.846173500881826,Layout+handcrafted visual RF,734,51722,Education,com.udemy.android,True
+6.0,5.82174052028219,Layout+handcrafted visual RF,740,52307,Education,com.deepriverdev.carlite,True
+5.666666666666667,5.91714395943562,Layout+handcrafted visual RF,741,52370,Education,com.duolingo,True
+7.0,5.844986111111111,Layout+handcrafted visual RF,750,53440,Books & Reference,org.wikipedia,True
+5.666666666666667,5.892700507054673,Layout+handcrafted visual RF,763,54362,Education,com.babbel.mobile.android.en,True
+5.333333333333333,5.673597222222222,Layout+handcrafted visual RF,768,54740,Books & Reference,com.neverland.alreader,True
+6.333333333333333,5.722013558201052,Layout+handcrafted visual RF,771,54887,Education,com.funeasylearn.japanese,True
+6.0,5.733921406525569,Layout+handcrafted visual RF,779,56000,Education,com.ba.fractioncalculator,True
+5.333333333333333,5.614119598765435,Layout+handcrafted visual RF,790,56663,Education,com.sign.language.learn1234,True
+5.333333333333333,5.705585477793811,Layout+handcrafted visual RF,803,57631,Books & Reference,bible.bibleverse.biblia.bibleverses.scripture.holywrit.verse.devotion,True
+5.666666666666667,5.934538249559085,Layout+handcrafted visual RF,804,57636,Books & Reference,bible.bibleverse.biblia.bibleverses.scripture.holywrit.verse.devotion,True
+5.666666666666667,5.882101741622578,Layout+handcrafted visual RF,822,59294,Books & Reference,com.carrotapps.battledeck,True
+5.333333333333333,5.575384589947091,Layout+handcrafted visual RF,839,60650,Books & Reference,com.appsfriendly.nivbiblefreeofflinebible,True
+5.666666666666667,5.902548941798942,Layout+handcrafted visual RF,846,61314,Books & Reference,com.hamropatro.dictionary,True
+6.0,5.8541099537037065,Layout+handcrafted visual RF,849,61904,Education,com.fusionprojects.edmodo,True
+5.333333333333333,5.659238756613757,Layout+handcrafted visual RF,850,61907,Education,com.fusionprojects.edmodo,True
+6.0,5.998255411255405,Layout+handcrafted visual RF,851,62000,Education,net.tandem,True
+6.0,6.066443121693126,Layout+handcrafted visual RF,862,62494,Education,com.zetty.zettygmp,True
+6.0,5.909289472101977,Layout+handcrafted visual RF,879,63515,Education,com.gabrielittner.timetable,True
+6.0,5.75456172839506,Layout+handcrafted visual RF,894,64526,Books & Reference,com.azwstudios.theholybible.kjv,True
+6.666666666666667,5.852525462962962,Layout+handcrafted visual RF,895,64530,Books & Reference,com.azwstudios.theholybible.kjv,True
+6.333333333333333,5.871308366402127,Layout+handcrafted visual RF,927,66433,Education,com.dwabtech.vexvia,True
+5.333333333333333,5.735781856261018,Layout+handcrafted visual RF,953,69011,Education,com.vivitylabs.android.braintrainer,True
+6.0,5.943286606140775,Layout+handcrafted visual RF,965,69964,Books & Reference,com.admobapp.carsmodforminecraftpe,True
+7.0,5.9251063712522125,Layout+handcrafted visual RF,966,69965,Books & Reference,com.admobapp.carsmodforminecraftpe,True
+5.666666666666667,5.657767195767192,Layout+handcrafted visual RF,973,70359,Comics,co.visionbooks.reader,True
+6.333333333333333,6.009843309082888,Layout+handcrafted visual RF,975,70467,Education,com.virblue.mystudylife,True

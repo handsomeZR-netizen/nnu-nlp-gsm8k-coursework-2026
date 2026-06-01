@@ -1,0 +1,8 @@
+block,n_features,finite_ratio
+layout64,64,1.0
+visual_handcrafted,73,1.0
+layout64_visual_handcrafted,137,1.0
+clip512,512,1.0
+layout64_clip512,576,1.0
+clip512_visual_handcrafted,585,1.0
+layout64_clip512_visual_handcrafted,649,1.0

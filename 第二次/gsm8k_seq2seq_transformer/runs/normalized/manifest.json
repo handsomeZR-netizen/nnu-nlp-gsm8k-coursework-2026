@@ -1,0 +1,22 @@
+[
+  {
+    "model": "RNN_full",
+    "path": "runs\\normalized\\RNN_full.jsonl",
+    "num_samples": 1319
+  },
+  {
+    "model": "Transformer_full",
+    "path": "runs\\normalized\\Transformer_full.jsonl",
+    "num_samples": 1319
+  },
+  {
+    "model": "Transformer_final_optimized",
+    "path": "runs\\normalized\\Transformer_final_optimized.jsonl",
+    "num_samples": 1319
+  },
+  {
+    "model": "Pretrained_T5_final",
+    "path": "runs\\normalized\\Pretrained_T5_final.jsonl",
+    "num_samples": 1319
+  }
+]

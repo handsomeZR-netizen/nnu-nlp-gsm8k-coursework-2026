@@ -1,0 +1,1001 @@
+true_quality,pc1,pc2,tier,row_id,ui_number,category,app_package,is_education_reading
+5.333333333333333,4.49938,-0.62452936,Bottom quartile,0,15,Video Players & Editors,yong.app.videoeditor,False
+5.0,-7.800359,4.6132793,Bottom quartile,1,28,Finance,com.scotiabank.mobile,False
+5.666666666666667,-5.6113234,2.5359063,Middle 50%,2,67,Education,gov.nasa,True
+6.666666666666667,1.7740312,3.5167875,Top quartile,3,190,Social,com.caliente.android.mobile,False
+5.0,-6.775276,-7.9124584,Bottom quartile,4,193,Social,com.caliente.android.mobile,False
+4.666666666666667,-3.209937,-5.1505346,Bottom quartile,5,233,Weather,disasterAlert.PDC,False
+5.0,-0.41078106,3.7674963,Bottom quartile,6,288,Social,com.emojimaker,False
+5.333333333333333,-1.0631772,-3.3519685,Bottom quartile,7,342,Books & Reference,com.ghstudios.android.mhgendatabase,True
+6.0,-1.1698099,-2.9589348,Middle 50%,8,422,Dating,com.ionicframework.vznakomstve,False
+6.666666666666667,-6.4840565,-3.0203104,Top quartile,9,445,Medical,com.microphone.earspy,False
+5.333333333333333,3.0631392,-1.0862846,Bottom quartile,10,640,Music & Audio,com.mws.radiomirchi,False
+5.666666666666667,3.222104,1.2172401,Middle 50%,11,662,Education,com.coderzheaven.englishtenses,True
+6.333333333333333,-6.1682854,-8.94119,Top quartile,12,732,Social,mobi.jackd.android,False
+5.0,3.7930365,-1.1570907,Bottom quartile,13,802,Education,com.twolittlehands,True
+6.333333333333333,-9.225239,4.1328363,Top quartile,14,824,Shopping,com.auntieannes.pretzelperks,False
+5.666666666666667,-3.734571,-0.43639588,Middle 50%,15,850,Music & Audio,com.musicplayer.music,False
+6.666666666666667,-12.922202,-0.7098753,Top quartile,16,1025,Weather,com.koam.android.weather,False
+5.666666666666667,-11.645811,2.7146616,Middle 50%,17,1134,Education,com.scholly.scholarshipsearch,True
+6.333333333333333,2.53798,-1.1983025,Top quartile,18,1138,Shopping,com.nordstrom.rack.app,False
+5.333333333333333,2.060683,-1.0539758,Bottom quartile,19,1245,Lifestyle,com.bitsmedia.android.muslimpro,False
+5.666666666666667,2.4528184,-0.7846062,Middle 50%,20,1369,Travel & Local,com.thy.mobile,False
+6.0,2.8357244,2.2515802,Middle 50%,21,1371,Travel & Local,com.thy.mobile,False
+5.333333333333333,5.3219156,-2.808342,Bottom quartile,22,1395,Health & Fitness,com.sharecare.askmd,False
+5.666666666666667,4.0516562,-0.17257686,Middle 50%,23,1574,News & Magazines,com.androidcentral.app,False
+5.333333333333333,-6.7496653,1.1366804,Bottom quartile,24,1622,Social,com.vingle.android,False
+6.0,3.1471615,1.8509814,Middle 50%,25,1693,Maps & Navigation,com.AutoLean.puregas,False
+7.0,2.3515832,-1.9986073,Top quartile,26,1731,Medical,com.mostafiz.ovulation,False
+5.666666666666667,4.9284897,-1.8372138,Middle 50%,27,1741,Travel & Local,com.volaris.android,False
+6.0,4.556035,0.6735257,Middle 50%,28,2046,News & Magazines,com.doapps.android.mln.MLN_dba9d977d835f194cef46def062fb44d,False
+6.5,2.79509,0.55274576,Top quartile,29,2062,Parenting,com.geeksdeck.kalendarzciazowy,False
+5.333333333333333,-11.823353,4.005675,Bottom quartile,30,2113,Music & Audio,simosoftprojects.musicplayerforpad,False
+6.5,-9.428133,-1.0432839,Top quartile,31,2120,Parenting,com.farintuit.sitterfriends,False
+6.333333333333333,4.2490273,1.0322526,Top quartile,32,2168,Maps & Navigation,com.wizzair.WizzAirApp,False
+6.333333333333333,3.8366463,0.29109442,Top quartile,33,2171,Maps & Navigation,com.wizzair.WizzAirApp,False
+5.666666666666667,0.13624324,-0.76448137,Middle 50%,34,2173,Maps & Navigation,com.wizzair.WizzAirApp,False
+5.333333333333333,4.191393,3.62178,Bottom quartile,35,2257,News & Magazines,com.buzzfeed.news,False
+6.333333333333333,5.302437,1.9884247,Top quartile,36,2445,Food & Drink,com.reserve.android,False
+5.666666666666667,-6.962079,5.431927,Middle 50%,37,2610,Health & Fitness,digifit.virtuagym.client.android,False
+5.666666666666667,2.6294544,1.7915938,Middle 50%,38,2706,Travel & Local,com.metrocket.iexitapp,False
+6.0,2.955874,-1.6523035,Middle 50%,39,2778,Finance,com.stash.stashinvest,False
+5.666666666666667,4.191387,-1.5077785,Middle 50%,40,2782,Finance,com.stash.stashinvest,False
+6.666666666666667,4.1133432,-0.4195587,Top quartile,41,2783,Finance,com.stash.stashinvest,False
+6.0,-1.7089775,-1.7119282,Middle 50%,42,2879,Entertainment,com.leyinetwork.longan.voicechanger,False
+6.333333333333333,-7.900855,-8.106966,Top quartile,43,2973,Music & Audio,cat.ereza.sounds.baby,False
+5.666666666666667,1.9280043,0.8295737,Middle 50%,44,3009,Communication,com.airteltalk,False
+4.333333333333333,5.786261,-2.893307,Bottom quartile,45,3087,House & Home,com.primedia.apartmentguide,False
+6.333333333333333,-0.7040657,3.2924147,Top quartile,46,3109,Medical,com.healint.migraineapp,False
+6.333333333333333,1.1486111,3.5498292,Top quartile,47,3113,Medical,com.healint.migraineapp,False
+5.0,4.344844,-3.4779844,Bottom quartile,48,3297,Auto & Vehicles,com.autogravity.fletcherjones,False
+6.666666666666667,-8.220383,-2.20463,Top quartile,49,3361,Comics,com.Feng.LingCrazyLockScreen,True
+6.666666666666667,2.9924989,6.9405155,Top quartile,50,3647,Books & Reference,com.tinashe.sdah,True
+5.333333333333333,5.2854357,-1.0896282,Bottom quartile,51,3710,Health & Fitness,com.whistle.WhistleApp,False
+6.333333333333333,-2.5475144,4.872235,Top quartile,52,3753,Education,com.japanactivator.android.jasensei,True
+5.666666666666667,-6.2095633,10.100423,Middle 50%,53,3765,Social,valentine.love.emoji.free,False
+6.0,4.415923,-0.76833445,Middle 50%,54,3947,Comics,com.collectorz.javamobile.android.comics,True
+6.0,-3.5263157,1.1350012,Middle 50%,55,3977,Shopping,com.gpshopper.truereligion,False
+5.666666666666667,-8.189617,-4.086384,Middle 50%,56,4057,Communication,com.openvacs.android.otog,False
+5.333333333333333,-5.0347257,-6.6290174,Bottom quartile,57,4112,Communication,com.psiphon3.subscription,False
+6.25,3.8306274,4.5934105,Middle 50%,58,4128,Medical,gov.nih.nlm.wiser,False
+6.333333333333333,2.5164578,1.5543449,Top quartile,59,4158,Music & Audio,com.soundcloud.android,False
+5.666666666666667,-9.573166,2.7353554,Middle 50%,60,4198,Maps & Navigation,com.ofirmiron.findmycarandroidwear,False
+4.666666666666667,-7.6061583,6.114496,Bottom quartile,61,4269,Entertainment,hseek.mcpe.map,False
+5.666666666666667,-12.332263,2.049918,Middle 50%,62,4349,Weather,com.mg.android.free,False
+5.666666666666667,4.7621317,-1.3986384,Middle 50%,63,4368,Health & Fitness,is.abide,False
+5.666666666666667,4.660732,-1.8064202,Middle 50%,64,4376,Health & Fitness,is.abide,False
+5.333333333333333,4.7290716,-3.1631567,Bottom quartile,65,4439,Education,com.memory.brain.training.games,True
+5.666666666666667,-0.8873226,2.5802934,Middle 50%,66,4486,Music & Audio,com.meihillman.audiorecorder,False
+6.333333333333333,4.2951097,-0.23102616,Top quartile,67,4569,Shopping,com.mercariapp.mercari,False
+5.333333333333333,2.1404057,-1.4071857,Bottom quartile,68,4686,Medical,com.mdhelper.cardiojournal,False
+6.666666666666667,0.6696348,-2.4560924,Top quartile,69,4717,Travel & Local,net.moimcomms.waple,False
+5.666666666666667,5.818421,-3.2832646,Middle 50%,70,4789,Food & Drink,com.desertstorm.recipebook,False
+6.333333333333333,-8.291775,-0.8437769,Top quartile,71,4929,Sports,com.manutd.mutv,False
+6.0,3.9748588,-0.6727985,Middle 50%,72,4938,Shopping,co.fronto,False
+5.0,2.9745657,-0.19163488,Bottom quartile,73,4971,Music & Audio,com.kane.xplay.activities,False
+5.666666666666667,5.6823273,-2.2346447,Middle 50%,74,5005,Maps & Navigation,osacky.ridemeter,False
+6.0,1.064384,-1.0787508,Middle 50%,75,5150,Comics,com.iconology.comics,True
+5.333333333333333,-7.363648,-9.448016,Bottom quartile,76,5152,Comics,com.iconology.comics,True
+5.666666666666667,3.965712,-0.33483815,Middle 50%,77,5206,Comics,net.androidcomics.acv,True
+6.333333333333333,4.3309774,-1.9385632,Top quartile,78,5257,Health & Fitness,com.eatthismuch,False
+5.0,-7.421136,5.0018096,Bottom quartile,79,5311,Music & Audio,com.suwangli.soundcloud,False
+6.666666666666667,2.4474704,1.676246,Top quartile,80,5447,Weather,com.cube.arc.wfa,False
+6.0,0.8313147,5.709883,Middle 50%,81,5456,News & Magazines,com.andromo.dev331820.app411729,False
+7.0,1.9916886,-0.0661038,Top quartile,82,5514,Books & Reference,com.prestigio.ereader,True
+6.666666666666667,-11.601272,4.8721013,Top quartile,83,5760,Music & Audio,com.atomic.apps.ringtone.cutter,False
+5.0,2.149128,0.6910032,Bottom quartile,84,5897,Auto & Vehicles,com.obdmax2,False
+5.333333333333333,2.595712,0.6510569,Bottom quartile,85,5898,Auto & Vehicles,com.obdmax2,False
+6.333333333333333,-0.39028433,-0.29703122,Top quartile,86,6048,Health & Fitness,com.womenfitness.losebellyfatinweek,False
+6.333333333333333,2.012628,-0.46604222,Top quartile,87,6077,Medical,org.intermountainhealthcare.consumerlauncher,False
+6.666666666666667,-8.578633,-3.7839508,Top quartile,88,6079,Communication,com.stt.mobilehotspot,False
+5.0,-5.8922424,-6.6102757,Bottom quartile,89,6143,Lifestyle,dk.mymovies.mymoviesforandroidfree,False
+6.0,-6.1209717,-9.346284,Middle 50%,90,6146,Lifestyle,dk.mymovies.mymoviesforandroidfree,False
+5.5,4.65329,-0.83903927,Middle 50%,91,6307,Shopping,com.topcashback.topcashback,False
+6.0,-7.7742233,-2.2436404,Middle 50%,92,6461,Education,com.josh.jagran.android.activity,True
+6.0,-5.3455086,-8.412554,Middle 50%,93,6485,Weather,com.kcbd.android.weather,False
+6.333333333333333,-12.766242,-1.8787248,Top quartile,94,6488,Weather,com.kcbd.android.weather,False
+6.0,-5.440277,-8.92481,Middle 50%,95,6590,Lifestyle,com.purchasingpower.mobile,False
+5.666666666666667,2.7586102,-0.059170414,Middle 50%,96,6832,Shopping,com.geomobile.tiendeo,False
+4.666666666666667,5.2174335,-1.3732556,Bottom quartile,97,6873,Communication,com.trtf.blue,False
+4.333333333333333,4.2388487,0.74895984,Bottom quartile,98,6899,Social,net.prtm.myfamily,False
+6.333333333333333,2.194943,1.6733478,Top quartile,99,6908,Shopping,com.belcaro.shopathome.shopathome,False
+5.666666666666667,2.0831475,1.3258843,Middle 50%,100,6944,Comics,com.viewer.comicscreen,True
+5.333333333333333,3.8352911,-0.46843436,Bottom quartile,101,6966,Comics,com.viewer.comicscreen,True
+6.333333333333333,-3.4050505,0.021860752,Top quartile,102,6980,Entertainment,com.vkrun.flashgameplayer,False
+6.666666666666667,4.247607,-0.5502916,Top quartile,103,7014,Shopping,com.fsn.nykaa,False
+6.0,5.0127945,-2.0053236,Middle 50%,104,7017,Shopping,com.fsn.nykaa,False
+6.333333333333333,3.8425841,-0.56858176,Top quartile,105,7025,Maps & Navigation,com.jerrellmardis.ridemetra,False
+6.666666666666667,1.8769441,4.7907486,Top quartile,106,7051,Finance,com.scg.android,False
+4.666666666666667,2.9670415,-1.6581175,Bottom quartile,107,7137,Sports,sport.tv.live.television,False
+6.666666666666667,-4.1312094,2.4635398,Top quartile,108,7145,Maps & Navigation,com.vsct.vsc.mobile.horaireetresa.android,False
+6.333333333333333,4.9247875,-1.9935238,Top quartile,109,7297,Social,com.wamba.client,False
+6.666666666666667,1.6092439,-0.4807862,Top quartile,110,7388,Auto & Vehicles,com.yeiksof.droidcar,False
+5.666666666666667,-9.894047,4.6419077,Middle 50%,111,7417,Lifestyle,com.leapfroginteractive.texasroadhouse,False
+6.0,-16.882557,-0.27221805,Middle 50%,112,7588,Maps & Navigation,taxo.metr,False
+6.0,0.52722883,3.505051,Middle 50%,113,7591,Sports,com.fanatics,False
+6.0,-11.500273,1.011821,Middle 50%,114,7618,Sports,com.homemade.ffm2,False
+5.666666666666667,3.305915,-0.13149513,Middle 50%,115,7720,Education,com.sage.ljp,True
+5.333333333333333,-5.5264482,2.9865465,Bottom quartile,116,7746,News & Magazines,bbc.mobile.news.ww,False
+6.333333333333333,2.1176593,-1.0225376,Top quartile,117,7836,Sports,com.wsl.android,False
+5.333333333333333,-1.5320543,7.952588,Bottom quartile,118,7911,Sports,com.supersport.android.phone,False
+6.0,2.8811505,0.8581792,Middle 50%,119,7948,Books & Reference,com.pleco.chinesesystem,True
+5.666666666666667,0.11468121,3.1918645,Middle 50%,120,8183,Travel & Local,com.disney.cruise.sept_goo,False
+6.0,3.558494,2.2000673,Middle 50%,121,8214,Education,yumugee.education.dailyenglishexercises,True
+6.0,-7.0603256,-4.2391415,Middle 50%,122,8255,Health & Fitness,com.playsimple.fitnessapp,False
+5.0,-9.184574,0.5820076,Bottom quartile,123,8321,Weather,com.ksfy.android.weather,False
+6.0,4.668703,-0.9136084,Middle 50%,124,8343,Health & Fitness,com.fourtechnologies.mynetdiary.ad,False
+6.333333333333333,-4.273487,3.726286,Top quartile,125,8430,Entertainment,com.yidio.androidapp,False
+7.0,3.0222604,2.1199932,Top quartile,126,8488,Business,com.auction.resi.buyer,False
+6.333333333333333,1.8258032,-0.24695174,Top quartile,127,8511,Medical,com.wonggordon.bgmonitor,False
+5.0,2.2513561,2.0920498,Bottom quartile,128,8588,Shopping,com.grofers.customerapp,False
+6.666666666666667,4.022236,-0.28219643,Top quartile,129,8604,Shopping,com.grofers.customerapp,False
+5.666666666666667,3.3755922,-2.1975517,Middle 50%,130,8655,Dating,com.sudyapp,False
+5.0,2.8153229,-1.4468555,Bottom quartile,131,8781,Music & Audio,com.bestringtonesapps.smsringtones,False
+6.333333333333333,1.2118703,-1.7868493,Top quartile,132,8923,Travel & Local,net.skyscanner.android.main,False
+5.333333333333333,-9.646782,-6.755267,Bottom quartile,133,9107,Music & Audio,com.gaana,False
+6.0,2.143925,5.8633957,Middle 50%,134,9140,Health & Fitness,com.ecw.healow,False
+5.0,4.0008454,-0.9208464,Bottom quartile,135,9142,Social,com.waplog.social,False
+6.0,-0.34354067,5.887017,Middle 50%,136,9269,Food & Drink,dil.snack_recipe,False
+5.0,-5.4392724,-1.42419,Bottom quartile,137,9520,Travel & Local,com.pilottravelcenters.mypilot,False
+5.0,3.3580303,9.002197,Bottom quartile,138,9560,Education,com.nso,True
+5.333333333333333,4.4565735,-0.93893796,Bottom quartile,139,9675,Music & Audio,ru.subprogram.guitarsongs.vint,False
+7.0,2.5480957,1.1005893,Top quartile,140,9725,Travel & Local,com.hipmunk.android,False
+5.666666666666667,2.7054257,2.4501982,Middle 50%,141,9756,Social,com.bluelionmobile.qeep.client.android,False
+5.0,-9.04561,3.496407,Bottom quartile,142,9758,Social,com.bluelionmobile.qeep.client.android,False
+6.0,2.94029,9.120361,Middle 50%,143,9835,Medical,com.moodtools.crisis.app,False
+6.0,3.7395964,-0.82466084,Middle 50%,144,9897,Weather,com.cube.arc.tfa,False
+5.333333333333333,1.2778068,0.014074292,Bottom quartile,145,9898,Weather,com.cube.arc.tfa,False
+5.666666666666667,2.8415725,-0.18658222,Middle 50%,146,9960,Education,com.meritnation.school,True
+6.333333333333333,4.612067,1.4279203,Top quartile,147,10089,Sports,com.neulion.android.collegesports.unc.free,False
+6.666666666666667,-1.1321918,2.0551689,Top quartile,148,10112,Social,lt.ito.eskimi,False
+6.333333333333333,2.6217184,1.0028793,Top quartile,149,10122,Social,com.martianwatches.martianwatchnotifier,False
+6.333333333333333,2.8375053,1.0763011,Top quartile,150,10126,Social,com.martianwatches.martianwatchnotifier,False
+6.0,0.72120744,2.001894,Middle 50%,151,10137,Weather,com.wivb.android.weather,False
+6.0,4.461547,-0.2831999,Middle 50%,152,10196,Dating,com.buzzmuslim.buzzmuslim,False
+5.0,5.3503838,-2.703587,Bottom quartile,153,10239,Shopping,com.cardstar.android,False
+5.666666666666667,2.3821716,2.8463638,Middle 50%,154,10364,Sports,com.resultadosfutbol.mobile,False
+6.666666666666667,5.188759,-1.8019366,Top quartile,155,10448,Communication,com.doublegis.dialer,False
+6.0,1.5728265,3.8549762,Middle 50%,156,10551,Auto & Vehicles,com.carwale,False
+6.0,-1.634016,7.386009,Middle 50%,157,10564,Sports,com.supersport.android.phone,False
+5.666666666666667,4.679678,-2.0520132,Middle 50%,158,10584,Communication,com.syncme.syncmeapp,False
+5.666666666666667,3.339083,-2.0388732,Middle 50%,159,10596,Communication,com.syncme.syncmeapp,False
+5.666666666666667,-9.346899,-4.660958,Middle 50%,160,10805,Sports,com.thescore.esports,False
+5.333333333333333,4.9189253,-1.922833,Bottom quartile,161,10848,Medical,com.jardogs.fmhmobile,False
+5.666666666666667,2.5445848,-2.0899596,Middle 50%,162,10882,Medical,com.jardogs.fmhmobile,False
+5.666666666666667,3.2894847,0.6168515,Middle 50%,163,11096,Parenting,com.urbansitter.android,False
+6.666666666666667,-1.2963195,4.4441614,Top quartile,164,11139,Dating,com.amrelmadah.freelancing.zawagalan,False
+6.666666666666667,5.518763,-3.1082063,Top quartile,165,11174,Entertainment,com.baretreemedia.trollsapp,False
+5.666666666666667,-5.472116,-3.730938,Middle 50%,166,11339,Books & Reference,com.awestruckstudios.pkmn,True
+5.0,3.4067783,8.779432,Bottom quartile,167,11363,Books & Reference,wp.wattpad,True
+5.666666666666667,2.6068459,6.2967653,Middle 50%,168,11435,Lifestyle,com.yardi.systems.rentcafe.resident,False
+6.666666666666667,4.7393966,-0.580695,Top quartile,169,11458,Finance,gov.irs,False
+5.333333333333333,1.4496032,-1.7979112,Bottom quartile,170,11519,Business,sandhills.truckpaper.app,False
+6.333333333333333,1.1825885,2.5344768,Top quartile,171,11557,Shopping,com.infoscout.receipthog,False
+4.666666666666667,2.5061226,0.7709705,Bottom quartile,172,11585,Education,com.bravolang.spanish,True
+6.0,-5.575721,-8.281422,Middle 50%,173,11631,Weather,org.androworks.klara,False
+6.0,3.7818768,-2.3479152,Middle 50%,174,11815,Books & Reference,com.hmobile.biblekjv,True
+6.333333333333333,5.191398,-1.6886303,Top quartile,175,11840,Social,com.hoott,False
+6.0,-4.823183,-1.1179681,Middle 50%,176,11896,Communication,com.greenalp.RealtimeTracker,False
+6.333333333333333,-5.3789835,-7.3718777,Top quartile,177,12027,Books & Reference,com.neptuns.usefulfishingknots,True
+6.333333333333333,4.9884644,-1.5917901,Top quartile,178,12064,Business,org.kman.AquaMail,False
+7.0,-10.4838085,3.3897355,Top quartile,179,12175,Health & Fitness,com.mayoclinic.patient,False
+5.666666666666667,-11.371298,2.654923,Middle 50%,180,12178,Health & Fitness,com.mayoclinic.patient,False
+5.0,-10.644672,3.2277436,Bottom quartile,181,12185,Health & Fitness,com.mayoclinic.patient,False
+6.0,4.613578,0.78864866,Middle 50%,182,12307,Business,com.dataviz.docstogo,False
+4.666666666666667,-1.9565926,5.9053063,Bottom quartile,183,12408,Food & Drink,com.cookware.eggrecipes,False
+5.0,1.7603674,1.2083267,Bottom quartile,184,12504,Shopping,com.honest.commerce,False
+6.0,-7.7342815,-6.150023,Middle 50%,185,12597,Books & Reference,grit.storytel.app,True
+6.0,1.9425647,2.5751376,Middle 50%,186,12611,Sports,com.yinzcam.nfl.steelers,False
+5.0,3.8819392,0.9512424,Bottom quartile,187,12732,Comics,com.marvel.comics,True
+4.666666666666667,-2.1638174,-3.7697802,Bottom quartile,188,12741,Business,com.enlightment.appslocker,False
+5.666666666666667,3.5077004,-1.2918397,Middle 50%,189,12757,Auto & Vehicles,com.drivemode.android,False
+5.666666666666667,-7.3934712,4.243862,Middle 50%,190,12773,Entertainment,minecraft.falloutcrafter.mod,False
+5.666666666666667,2.2604837,9.941462,Middle 50%,191,12784,Books & Reference,kjvdrama.dramatizedaudio.bibledramatized,True
+5.666666666666667,-5.2187586,-4.2019405,Middle 50%,192,12808,Music & Audio,com.fotoable.musicplayer,False
+5.666666666666667,2.6081567,1.2771257,Middle 50%,193,12949,Finance,piuk.blockchain.android,False
+6.333333333333333,1.6598177,1.2744796,Top quartile,194,12986,Music & Audio,com.bestringtonesapps.funnyalarmringtones,False
+5.666666666666667,3.1642008,8.2845125,Middle 50%,195,13004,Education,com.naturalsoft.naturalreader,True
+6.666666666666667,3.530673,-0.8694416,Top quartile,196,13005,Education,com.naturalsoft.naturalreader,True
+5.333333333333333,3.530673,-0.8694416,Bottom quartile,197,13013,Education,com.naturalsoft.naturalreader,True
+6.0,3.3322654,-2.0874758,Middle 50%,198,13016,Education,com.naturalsoft.naturalreader,True
+6.333333333333333,2.8303638,-1.015839,Top quartile,199,13052,Travel & Local,com.bravolang.phrasebook,False
+5.666666666666667,-6.343806,3.4044576,Middle 50%,200,13156,Education,com.okramuf.musikteori,True
+6.333333333333333,3.169514,3.5962312,Top quartile,201,13157,Education,com.okramuf.musikteori,True
+4.666666666666667,5.063573,-0.8475663,Bottom quartile,202,13173,Business,com.problemio,False
+6.0,2.8262553,1.0553163,Middle 50%,203,13251,Weather,co.windyapp.android,False
+5.0,-5.312722,-7.8638983,Bottom quartile,204,13294,Finance,com.msf.nse,False
+5.666666666666667,1.794419,-0.7614959,Middle 50%,205,13332,Education,com.ichi2.anki,True
+5.666666666666667,4.576878,-0.40057975,Middle 50%,206,13553,Shopping,com.outsitenetworks.circlek,False
+6.333333333333333,1.3705091,3.1048036,Top quartile,207,13565,Shopping,com.quikr,False
+4.666666666666667,-4.735935,-8.134237,Bottom quartile,208,13585,Communication,org.nastysage.blacklist,False
+5.666666666666667,-5.8951135,-7.174958,Middle 50%,209,13617,Finance,com.drcalculator.android.mortgage,False
+5.666666666666667,4.0236673,2.8322113,Middle 50%,210,13729,Health & Fitness,org.nutritionfacts.dailydozen,False
+5.666666666666667,3.479348,-3.0632293,Middle 50%,211,13854,Social,com.tapatalk.androidforumscom,False
+5.333333333333333,-1.3681233,-6.623623,Bottom quartile,212,13882,Travel & Local,com.discipleskies.android.polarisnavigation,False
+6.0,-1.0635661,2.7547193,Middle 50%,213,14243,Comics,de.casparwre.insult,True
+6.0,-10.220438,4.936707,Middle 50%,214,14287,Travel & Local,mobi.wifi.toolbox,False
+5.666666666666667,2.7384338,-0.49228567,Middle 50%,215,14321,Health & Fitness,softin.ny.women.fitness.miss.bikini,False
+5.333333333333333,-13.521404,4.708164,Bottom quartile,216,14334,News & Magazines,com.hearst.android.kcci,False
+4.666666666666667,0.8191651,2.0859146,Bottom quartile,217,14423,Books & Reference,com.megalol.muttertag,True
+4.666666666666667,-7.303462,-6.274197,Bottom quartile,218,14596,Comics,com.aon.mangaareader,True
+6.333333333333333,-0.7354053,3.2291558,Top quartile,219,14613,Travel & Local,com.ehi.enterprise.android,False
+6.0,-2.0587769,1.7837055,Middle 50%,220,14699,Social,com.narvii.amino.x59,False
+5.666666666666667,0.27063563,0.33080125,Middle 50%,221,14808,Shopping,com.nespresso.activities,False
+4.666666666666667,0.87197745,-2.1966066,Bottom quartile,222,14829,Shopping,com.mtph.clmobile,False
+6.0,-7.2815356,-0.40779597,Middle 50%,223,14847,Education,com.vitalsource.bookshelf,True
+5.333333333333333,-5.518921,-0.7159701,Bottom quartile,224,15108,Weather,com.waff.android.weather,False
+5.666666666666667,2.5409327,-1.1840565,Middle 50%,225,15170,Social,com.unearby.sayhi,False
+5.666666666666667,-5.348115,3.0546346,Middle 50%,226,15213,Lifestyle,co.uk.game.mobileapp,False
+6.333333333333333,1.1424524,2.4990225,Top quartile,227,15255,Food & Drink,com.bigoven.android,False
+5.0,-4.3916516,2.7212386,Bottom quartile,228,15321,Health & Fitness,com.bearpty.talklife,False
+6.333333333333333,-3.301888,7.8018146,Top quartile,229,15357,Food & Drink,com.endless.kitchenbook,False
+5.666666666666667,3.9531322,-0.1968535,Middle 50%,230,15360,Health & Fitness,com.womanlog,False
+5.333333333333333,3.647962,4.6673775,Bottom quartile,231,15418,Maps & Navigation,de.schildbach.oeffi,False
+6.0,-8.647266,6.9531393,Middle 50%,232,15509,Social,com.afty.geekchat,False
+5.666666666666667,-0.2475935,5.7619486,Middle 50%,233,15695,Events,com.eventshigh.nearme.app,False
+6.0,3.4464211,0.506947,Middle 50%,234,15707,Communication,com.openvacs.android.oto,False
+6.333333333333333,-5.550809,-5.420622,Top quartile,235,15747,Sports,com.scorestream.scorestream,False
+5.333333333333333,5.569641,-2.5207543,Bottom quartile,236,15773,News & Magazines,com.ibsys.app.pns_ant,False
+5.333333333333333,5.400387,-1.9508392,Bottom quartile,237,15876,Shopping,com.vinted,False
+4.333333333333333,-12.156834,-2.9729376,Bottom quartile,238,16155,Weather,ru.gismeteo.gismeteo,False
+5.0,-6.7749467,3.074566,Bottom quartile,239,16367,Education,com.bravolol.bravolang.englishchinesecdictionary,True
+5.666666666666667,1.6391375,2.6679664,Middle 50%,240,16409,Shopping,com.axlsofts.christmas,False
+6.0,1.1542532,-1.4060696,Middle 50%,241,16484,Weather,com.ktul.android.weather,False
+5.666666666666667,3.4040864,-0.57291484,Middle 50%,242,16562,Health & Fitness,de.aktiwir.aktibmi,False
+5.0,2.7181754,-0.14883296,Bottom quartile,243,16595,Shopping,com.dealdash,False
+5.333333333333333,-8.759881,-3.8392518,Bottom quartile,244,16667,Social,com.tarang.guyspy.and21,False
+5.666666666666667,-3.7820373,5.9747405,Middle 50%,245,16725,Maps & Navigation,com.carmellimo.limousine,False
+5.666666666666667,3.5652437,-1.8288599,Middle 50%,246,16789,Travel & Local,com.chimani.parks.free,False
+6.666666666666667,4.8834047,-1.8214916,Top quartile,247,16884,House & Home,com.apartments.mobile.android,False
+5.666666666666667,3.622539,0.47658342,Middle 50%,248,16955,Health & Fitness,com.glow.android.eve,False
+5.333333333333333,3.0555632,-1.0597633,Bottom quartile,249,17074,Finance,com.yahoo.mobile.client.android.finance,False
+5.666666666666667,0.18160401,3.0400026,Middle 50%,250,17157,Shopping,com.ebay.gumtree.za,False
+6.0,4.5524664,0.36971918,Middle 50%,251,17259,Travel & Local,com.couchsurfing.mobile.android,False
+6.666666666666667,4.746789,-1.7631428,Top quartile,252,17314,Travel & Local,simply.learn.korean,False
+6.0,-5.9599266,0.61669,Middle 50%,253,17437,Shopping,com.lifeway.christianstores,False
+6.0,-5.728533,-7.593839,Middle 50%,254,17455,Music & Audio,com.paullipnyagov.hiphopdrumpads24,False
+5.0,-4.3338537,0.46997887,Bottom quartile,255,17520,Sports,com.Europe.Football,False
+6.0,-11.354914,1.1155334,Middle 50%,256,17540,Lifestyle,com.surveymini.bolt,False
+5.666666666666667,5.779045,-3.7637234,Middle 50%,257,17584,News & Magazines,com.ss.android.article.master,False
+6.333333333333333,-7.5187736,-4.9626465,Top quartile,258,17671,Communication,og.android.tether,False
+5.666666666666667,-9.295452,-1.031341,Middle 50%,259,17718,Education,com.ma.ld.dict.engg,True
+5.333333333333333,0.886924,3.377179,Bottom quartile,260,17778,Music & Audio,com.amp.android,False
+6.333333333333333,3.5866315,-2.1469984,Top quartile,261,18128,Comics,mx.com.miscomics.miscomicsmx,True
+6.0,-1.4237764,-0.006948877,Middle 50%,262,18137,Lifestyle,com.dailyhoroscopes.net,False
+6.333333333333333,-6.9614897,6.456275,Top quartile,263,18162,Video Players & Editors,com.kauf.talking.baum.TalkingJoeOstrich,False
+6.333333333333333,-5.7139034,-5.8934493,Top quartile,264,18179,Entertainment,com.battlelancer.seriesguide,False
+6.0,-2.5779233,0.6647001,Middle 50%,265,18251,Auto & Vehicles,com.voltasit.obdeleven,False
+6.333333333333333,-3.103994,1.1696472,Top quartile,266,18262,Auto & Vehicles,com.voltasit.obdeleven,False
+5.666666666666667,-7.160537,1.3257072,Middle 50%,267,18281,Shopping,com.photon.android.bjsrestaurant,False
+6.666666666666667,4.748008,0.15596771,Top quartile,268,18288,Shopping,com.photon.android.bjsrestaurant,False
+5.666666666666667,1.2083812,1.799725,Middle 50%,269,18404,Entertainment,com.vividseats.android,False
+6.333333333333333,5.1974955,-0.20488484,Top quartile,270,18449,Lifestyle,com.tweakersoft.aroundme,False
+5.333333333333333,5.1467905,-3.1720142,Bottom quartile,271,18470,Auto & Vehicles,com.bluetooth.vagerasedtcall,False
+6.333333333333333,4.518032,-1.6275115,Top quartile,272,18491,Social,com.SuperVchat,False
+5.0,-0.93017125,2.884839,Bottom quartile,273,18604,Weather,com.enzuredigital.weatherbomb,False
+6.333333333333333,4.7091303,-0.83930564,Top quartile,274,18681,Communication,com.aol.mobile.aim,False
+6.0,3.3852918,8.1785345,Middle 50%,275,18927,Finance,com.grppl.android.shell.halifax,False
+5.666666666666667,4.749629,-1.1149355,Middle 50%,276,18949,Sports,com.foxsports.android,False
+6.333333333333333,-5.440596,-8.926939,Top quartile,277,18955,Maps & Navigation,com.garmin.android.apps.mech,False
+6.0,4.600329,0.5148055,Middle 50%,278,19170,Health & Fitness,com.cubesol.twentyonedaycontainer,False
+6.0,5.249008,-1.5211039,Middle 50%,279,19184,Health & Fitness,com.cubesol.twentyonedaycontainer,False
+5.666666666666667,-6.41513,5.447947,Middle 50%,280,19192,Music & Audio,com.animalsounds,False
+6.0,-3.0789392,1.2769158,Middle 50%,281,19258,Entertainment,com.tppm.what.was.in.my.past.life,False
+4.333333333333333,-7.3499293,2.829384,Bottom quartile,282,19267,Entertainment,com.nightinart.tattoocam,False
+5.666666666666667,3.8167124,-1.5193748,Middle 50%,283,19298,Dating,com.wapoapp.wapa,False
+5.0,-5.9907727,-0.049414087,Bottom quartile,284,19512,Communication,com.ninesky.browser,False
+5.333333333333333,-1.4629896,-2.0271153,Bottom quartile,285,19619,Social,com.meetlocals.android,False
+6.333333333333333,-7.850595,-4.2577195,Top quartile,286,19919,Dating,chat.anti,False
+6.333333333333333,5.4263697,-2.8679218,Top quartile,287,20049,News & Magazines,fr.lekiosque,False
+5.666666666666667,-0.057511188,4.9081416,Middle 50%,288,20158,Shopping,com.production.truspertips,False
+4.666666666666667,-5.913186,-5.4649673,Bottom quartile,289,20234,Social,com.levelup.touiteur,False
+6.0,3.6069884,-1.3918123,Middle 50%,290,20246,Finance,com.allstate.view,False
+5.666666666666667,-8.627275,4.2481613,Middle 50%,291,20325,Health & Fitness,jp.zeroapp.alarm,False
+5.333333333333333,-10.252427,5.009907,Bottom quartile,292,20335,Health & Fitness,jp.zeroapp.alarm,False
+6.0,4.2270727,-0.40464127,Middle 50%,293,20338,Lifestyle,com.sharper.mydiary,False
+6.666666666666667,-12.954731,-2.8177376,Top quartile,294,20474,Weather,com.wjw.android.weather,False
+6.0,3.3531723,1.639261,Middle 50%,295,20606,Health & Fitness,com.popularapp.thirtydayfitnesschallenge,False
+6.0,1.5645014,-0.6234233,Middle 50%,296,20714,News & Magazines,com.worldnews,False
+6.0,2.9954953,5.5513725,Middle 50%,297,20767,Food & Drink,com.eat24.app,False
+5.333333333333333,-1.4239833,-3.039239,Bottom quartile,298,20803,Lifestyle,com.sonic.sonicdrivein,False
+5.666666666666667,3.3192415,1.4350559,Middle 50%,299,20846,Finance,com.intuit.mobile.taxcaster,False
+5.666666666666667,-4.6251397,-0.20511805,Middle 50%,300,20853,Entertainment,co.happybits.fliplip,False
+5.333333333333333,4.2964735,-1.3961143,Bottom quartile,301,20894,Travel & Local,com.starwood.spg,False
+5.666666666666667,2.9802275,-1.0073967,Middle 50%,302,20937,Lifestyle,com.pixelcrater.Diaro,False
+6.666666666666667,3.182104,2.2345035,Top quartile,303,21060,Sports,com.sosscores.livefootball,False
+5.0,2.4450715,2.0623493,Bottom quartile,304,21067,Sports,com.sosscores.livefootball,False
+5.333333333333333,-5.931378,-7.7921047,Bottom quartile,305,21177,Sports,com.whitescape.ride_allinone,False
+5.666666666666667,6.1485643,-4.05747,Middle 50%,306,21267,Shopping,com.fivefly.android.shoppinglist,False
+5.333333333333333,2.3282468,-1.2649152,Bottom quartile,307,21457,Travel & Local,com.cheaptickets,False
+5.666666666666667,-2.7185512,-4.1060104,Middle 50%,308,21527,Travel & Local,com.yellowpages.androidtablet.ypmobile,False
+6.0,0.73525107,2.2446942,Middle 50%,309,21799,Weather,com.kold.android.weather,False
+5.333333333333333,4.767139,-1.272501,Bottom quartile,310,21947,Education,com.zeemish.spanish,True
+4.333333333333333,1.1565843,0.5789934,Bottom quartile,311,22172,Entertainment,com.mobile.bizo.makeababy2,False
+5.0,-12.279859,8.020684,Bottom quartile,312,22279,Travel & Local,com.genesisgaming.bravopokerlive,False
+6.333333333333333,3.7273254,-1.3005116,Top quartile,313,22321,Books & Reference,com.fatowl.audiobible,True
+5.666666666666667,2.9924297,3.633731,Middle 50%,314,22720,Shopping,com.globalegrow.app.dresslily,False
+5.333333333333333,3.2037215,-1.0569336,Bottom quartile,315,22843,Lifestyle,com.verizon.familybase.parent,False
+6.666666666666667,1.912683,-1.1658638,Top quartile,316,22950,Beauty,com.Girly.mnewpictures,False
+6.0,-3.013426,2.4941921,Middle 50%,317,23020,Social,com.uniformdating,False
+5.666666666666667,-7.9610124,-0.013687301,Middle 50%,318,23151,Auto & Vehicles,pl.com.roadrecorder,False
+5.666666666666667,3.6493855,0.16770218,Middle 50%,319,23182,Education,com.officail.BritannicaArFreeDict,True
+6.0,3.1011467,1.9118356,Middle 50%,320,23226,Communication,de.blinkt.openvpn,False
+5.0,3.9299846,2.8395376,Bottom quartile,321,23441,Books & Reference,com.pentaloop.fanfiction,True
+6.333333333333333,-5.424574,-8.872286,Top quartile,322,23530,Lifestyle,com.mozido.dairyqueen.mydq,False
+7.0,-5.053809,-5.526721,Top quartile,323,23532,Lifestyle,com.mozido.dairyqueen.mydq,False
+6.333333333333333,5.1954303,-1.3844666,Top quartile,324,23677,Books & Reference,com.bestweatherfor.bibleoffline_pt_ra,True
+6.0,5.4217887,-1.8091347,Middle 50%,325,23729,Health & Fitness,jp.co.recruit.mtl.beslim,False
+5.666666666666667,-1.5915108,-3.435054,Middle 50%,326,23810,Education,com.sweefitstudios.drawgraffiti,True
+5.666666666666667,-1.1988727,1.4776074,Middle 50%,327,23858,Social,com.pinnatta.android,False
+6.333333333333333,4.7621512,-1.7368772,Top quartile,328,23892,Beauty,com.perfectcorp.ycn,False
+5.666666666666667,-6.11272,-1.9202352,Middle 50%,329,23925,Shopping,com.karmaloop.activity,False
+6.333333333333333,-6.6245227,-4.741459,Top quartile,330,23941,Sports,org.ncsasports.rms,False
+5.333333333333333,-9.760033,-0.6089737,Bottom quartile,331,24162,Business,com.mventix.sellPro,False
+7.0,5.1610823,-3.3041773,Top quartile,332,24203,Education,com.howtodrawnew17pokemon.app,True
+5.666666666666667,-6.474838,2.2890377,Middle 50%,333,24345,Health & Fitness,com.ibrahimehadaj.femaleHardWorkouts,False
+5.0,0.26970473,-1.865608,Bottom quartile,334,24599,Art & Design,com.dmpaintfree,False
+5.666666666666667,3.6018333,-2.306413,Middle 50%,335,24628,Weather,com.scoutlook.hunting,False
+6.666666666666667,-2.7749176,2.487792,Top quartile,336,24704,Books & Reference,com.mobisystems.msdict.embedded.wireless.oxford.conciseenglish,True
+6.0,4.4654765,-1.237692,Middle 50%,337,24760,Health & Fitness,com.advocare,False
+6.333333333333333,-1.0139182,6.9648767,Top quartile,338,24805,Comics,iStudios.fablesandfairytales,True
+5.333333333333333,-6.885398,-8.599601,Bottom quartile,339,25017,Education,com.developitnowadays.spanishtoenglish,True
+4.333333333333333,-5.9240026,4.334618,Bottom quartile,340,25135,Books & Reference,com.aapvs.international.scarystories5.lite,True
+6.333333333333333,1.7500222,1.0905712,Top quartile,341,25178,Lifestyle,app.quiktrip.com.quiktrip,False
+6.333333333333333,0.93209136,0.7024259,Top quartile,342,25203,News & Magazines,com.dwarfplanet.bundle,False
+6.333333333333333,-10.1732235,3.373767,Top quartile,343,25333,Travel & Local,com.ryanair.cheapflights,False
+6.333333333333333,-3.2641816,6.4002666,Top quartile,344,25399,Food & Drink,com.endless.japaneserecipes,False
+6.333333333333333,-3.357568,-3.6543326,Top quartile,345,25516,Music & Audio,com.jetappfactory.jetaudio,False
+5.333333333333333,-3.374584,-3.500951,Bottom quartile,346,25535,Entertainment,com.duskjockeys.photokubelitelivewallpaper,False
+6.0,3.7920463,-0.22712505,Middle 50%,347,25638,Books & Reference,kjvbible.kingjamesbible.kjv.bible,True
+5.333333333333333,0.38375452,0.67560273,Bottom quartile,348,25711,House & Home,com.trulia.android.rentals,False
+5.5,4.257728,0.5548186,Middle 50%,349,25713,House & Home,com.trulia.android.rentals,False
+6.333333333333333,3.0034347,-0.5273218,Top quartile,350,25926,Shopping,com.tillys.tillysandroid,False
+6.0,-2.0567203,5.766511,Middle 50%,351,25964,Shopping,com.jcp,False
+6.0,4.6415443,-1.3640374,Middle 50%,352,25974,Shopping,com.jcp,False
+5.666666666666667,-7.3712006,-2.526088,Middle 50%,353,26007,Comics,com.binaryic.oshowisdom,True
+6.666666666666667,2.247072,-0.8253127,Top quartile,354,26143,Travel & Local,com.usefull.phrasestranslate,False
+6.0,-9.616835,-0.74232197,Middle 50%,355,26195,Communication,sirius.realmobilecallerlocation,False
+5.333333333333333,4.599557,1.6161331,Bottom quartile,356,26275,Lifestyle,r2i.InTouch.Android,False
+5.333333333333333,-6.952695,-3.905682,Bottom quartile,357,26372,Music & Audio,yong.tools.ringtone.Cutter,False
+4.666666666666667,2.4893985,4.4902325,Bottom quartile,358,26412,Sports,com.swingbyswing,False
+5.333333333333333,1.6636958,0.8412117,Bottom quartile,359,26453,Travel & Local,com.voicetranslator.SpeakAndTranslateFree,False
+4.0,-6.86298,-8.581169,Bottom quartile,360,26551,Books & Reference,jp.ne.asoft.android.gchord,True
+5.666666666666667,2.6193073,0.75121194,Middle 50%,361,26597,Finance,com.geico.mobile,False
+4.333333333333333,-7.645011,-0.58557975,Bottom quartile,362,26679,Health & Fitness,com.homefitness,False
+5.666666666666667,4.144498,0.5888645,Middle 50%,363,26804,Books & Reference,cherryapps.pokeguide,True
+6.333333333333333,-6.7160482,0.7007175,Top quartile,364,26830,Social,com.stackexchange.marvin,False
+6.0,-10.10832,2.8679872,Middle 50%,365,26933,Weather,com.wqad.android.weather,False
+5.666666666666667,-0.312642,4.4366617,Middle 50%,366,26968,Travel & Local,com.jazzmoonstewdio.android.dcmetro.activity,False
+5.666666666666667,3.5881228,-0.0971977,Middle 50%,367,27069,Music & Audio,com.x3.angolotesti,False
+6.0,3.3839965,6.0630655,Middle 50%,368,27108,Finance,com.sbg.mobile.phone,False
+6.333333333333333,-1.933202,7.654687,Top quartile,369,27245,Travel & Local,com.google.zagat,False
+6.666666666666667,4.174477,-1.9148796,Top quartile,370,27254,Shopping,com.freecharge.android,False
+5.333333333333333,-2.1353564,-0.9949668,Bottom quartile,371,27264,Shopping,com.banggood.client,False
+5.666666666666667,-0.79154694,1.3367382,Middle 50%,372,27321,Maps & Navigation,com.fatattitude.buscheckermta,False
+5.333333333333333,3.4940982,-0.2813481,Bottom quartile,373,27357,Business,com.whova.event,False
+6.0,4.4559326,1.8169503,Middle 50%,374,27365,Business,com.whova.event,False
+6.666666666666667,3.2431927,0.12571622,Top quartile,375,27378,Business,com.whova.event,False
+6.666666666666667,-7.951532,5.1172876,Top quartile,376,27533,Health & Fitness,com.ihunda.android.hiit,False
+7.333333333333333,1.5032613,2.2618399,Top quartile,377,27590,Shopping,com.pictarine.cardprint,False
+6.0,4.8259144,-0.23530401,Middle 50%,378,27599,Books & Reference,com.goodreads,True
+5.666666666666667,0.29022273,3.3187926,Middle 50%,379,27678,Travel & Local,com.hotwire.hotels,False
+5.666666666666667,3.804111,-0.74574697,Middle 50%,380,27748,Education,com.duolingo,True
+6.333333333333333,4.3397064,-1.2291037,Top quartile,381,27754,Education,com.duolingo,True
+5.0,-0.26423487,-0.20610262,Bottom quartile,382,27821,Books & Reference,com.dictionary.mr,True
+5.333333333333333,4.1700215,-1.0257133,Bottom quartile,383,27847,Dating,teen.chatrooms,False
+5.666666666666667,3.7896602,-1.4811016,Middle 50%,384,27992,Health & Fitness,com.wsl.noom,False
+6.333333333333333,5.5009837,-3.1882694,Top quartile,385,28003,Social,com.edison.whoviewedmyprofile,False
+5.333333333333333,3.4021866,-1.494762,Bottom quartile,386,28077,Social,com.zoosk.zoosk,False
+6.0,-2.9104419,3.630242,Middle 50%,387,28197,Weather,com.doapps.android.mln.wthr_weather,False
+6.666666666666667,-0.4457192,-1.7379822,Top quartile,388,28283,Business,com.softxpert.sds,False
+5.75,2.136008,0.40938845,Middle 50%,389,28329,Health & Fitness,com.popularapp.periodcalendar,False
+6.666666666666667,3.2319286,-1.5926254,Top quartile,390,28435,Travel & Local,com.radarbeep,False
+5.0,4.7404776,1.2613333,Bottom quartile,391,28483,Education,com.yobimi.bbclearningenglish,True
+6.333333333333333,0.23234554,0.42114747,Top quartile,392,28494,Communication,de.wgsoft.scanmaster,False
+6.0,-5.4485064,-2.448247,Middle 50%,393,28580,Music & Audio,dje073.android.audiorecorderlite,False
+4.333333333333333,5.227797,-3.6150036,Bottom quartile,394,28672,Video Players & Editors,com.intee.getvideo,False
+5.333333333333333,5.864871,-3.4035475,Bottom quartile,395,28800,Travel & Local,com.aircanada,False
+5.333333333333333,4.9069166,-3.0702763,Bottom quartile,396,28898,Finance,org.stocktwits.android.activity,False
+6.0,-8.933699,2.3012786,Middle 50%,397,28971,News & Magazines,com.usatoday.android.news,False
+4.75,-5.529811,-5.50389,Bottom quartile,398,29035,Video Players & Editors,org.videolan.vlc.betav7neon,False
+6.333333333333333,4.517971,-0.9565695,Top quartile,399,29042,Auto & Vehicles,com.andrzejsalwin.carfuellog,False
+7.0,5.022822,-1.4533064,Top quartile,400,29044,Auto & Vehicles,com.andrzejsalwin.carfuellog,False
+6.0,-5.235782,-2.6170096,Middle 50%,401,29243,Entertainment,mobi.ifunny,False
+5.333333333333333,-1.5912248,5.5079927,Bottom quartile,402,29388,Food & Drink,com.befit.mealreminder,False
+5.333333333333333,-4.830795,-1.0003035,Bottom quartile,403,29530,Music & Audio,com.magix.android.mmjam,False
+5.333333333333333,-6.845244,0.4188965,Bottom quartile,404,29829,Music & Audio,com.vizSoft.bassBooster,False
+6.333333333333333,-7.1052165,5.7177024,Top quartile,405,29864,Finance,com.fusionmedia.investing,False
+5.666666666666667,-1.5616951,9.467273,Middle 50%,406,29875,Events,com.kudago.android,False
+5.333333333333333,1.9966614,3.4559479,Bottom quartile,407,29990,Sports,com.jacobsmedia.weei,False
+5.666666666666667,1.5955863,-1.4995353,Middle 50%,408,30126,Food & Drink,com.yummly.android,False
+6.0,1.9669282,-1.0329534,Middle 50%,409,30135,Food & Drink,com.yummly.android,False
+6.666666666666667,5.322928,-0.31699112,Top quartile,410,30185,Business,crowdedroad.iFax,False
+3.6666666666666665,-5.1282997,6.6568613,Bottom quartile,411,30217,Social,com.narvii.amino.x80879609,False
+6.666666666666667,-8.257729,3.0694995,Top quartile,412,30234,Weather,com.discipleskies.android.dsbarometer,False
+7.0,-4.0459228,6.95456,Top quartile,413,30243,Health & Fitness,net.mindfsck.Pos,False
+5.666666666666667,5.5572405,-2.475826,Middle 50%,414,30275,Social,com.zhiliaoapp.lively,False
+5.666666666666667,2.7292323,1.2980452,Middle 50%,415,30306,Lifestyle,com.foodler.android.foodlerapp,False
+6.0,-7.146601,-0.8550077,Middle 50%,416,30406,Travel & Local,jp.ne.wi2.tjwifi,False
+6.333333333333333,1.8209256,1.6450884,Top quartile,417,30484,Lifestyle,com.olo.jambajuice,False
+5.0,5.8035707,-3.3023055,Bottom quartile,418,30487,Lifestyle,com.olo.jambajuice,False
+6.333333333333333,-11.492491,-4.685828,Top quartile,419,30530,Entertainment,com.mcprohosting.beam,False
+6.0,2.7343054,1.8446038,Middle 50%,420,30555,Education,com.adda247.app,True
+6.333333333333333,3.652292,-0.25622547,Top quartile,421,30618,Auto & Vehicles,com.bsro.tp,False
+5.666666666666667,1.0799897,1.762846,Middle 50%,422,30620,Auto & Vehicles,com.bsro.tp,False
+5.0,3.7365491,1.3374583,Bottom quartile,423,30648,House & Home,com.homesnap,False
+5.0,-4.5872946,-1.6327014,Bottom quartile,424,30683,Sports,com.fiftysixkbit.hockeyhornsfree,False
+6.333333333333333,3.3129435,-0.20447351,Top quartile,425,30702,Sports,com.vailresorts.epicmix,False
+5.333333333333333,-5.14439,-6.0015535,Bottom quartile,426,30728,News & Magazines,com.phyora.apps.reddit_now,False
+3.6666666666666665,-2.066416,3.0728533,Bottom quartile,427,30809,Travel & Local,softnator.mobilelocationtrackermap,False
+6.0,3.7657442,2.5158002,Middle 50%,428,30955,Lifestyle,com.andromo.dev230101.app300711,False
+6.333333333333333,-6.4569016,-4.356835,Top quartile,429,31020,Medical,com.szyk.myheart,False
+6.0,3.5084894,8.334079,Middle 50%,430,31080,Finance,net.metaquotes.metatrader5,False
+6.666666666666667,4.4333534,-1.3941839,Top quartile,431,31271,Social,com.snupps.snuppsdroid,False
+6.666666666666667,-9.169294,-4.041792,Top quartile,432,31563,Dating,emotion.onekm,False
+6.333333333333333,4.376547,-1.3353227,Top quartile,433,31620,Parenting,com.zoemob.gpstracking,False
+6.0,-13.750925,-0.62527895,Middle 50%,434,31742,Medical,com.medicaljoyworks.prognosis,False
+5.0,-6.883684,-5.6985054,Bottom quartile,435,31841,Weather,com.clockweather,False
+6.0,4.247115,-1.3027936,Middle 50%,436,31990,Lifestyle,smsr.com.acc,False
+6.0,-0.9581832,-2.3584538,Middle 50%,437,31991,Lifestyle,smsr.com.acc,False
+6.666666666666667,3.5280886,4.040556,Top quartile,438,32013,Books & Reference,com.conem.app.pocketthesaurus,True
+5.333333333333333,-3.8892455,1.9380096,Bottom quartile,439,32064,Social,com.spark.christianmingle,False
+5.333333333333333,-10.181413,-2.8676848,Bottom quartile,440,32087,Social,com.joenye.truthordare,False
+5.333333333333333,3.275486,-0.15213056,Bottom quartile,441,32240,Weather,com.jiran.weatherlocker,False
+5.333333333333333,-6.2266054,-0.6695176,Bottom quartile,442,32374,Health & Fitness,com.tinymission.dailyarmworkoutfree,False
+6.0,5.5784903,-1.5205388,Middle 50%,443,32379,Communication,com.gcm_call_sms_tracker,False
+5.666666666666667,2.922318,-0.58349484,Middle 50%,444,32399,Health & Fitness,com.fitness22.workout,False
+5.333333333333333,4.0540695,-0.48032063,Bottom quartile,445,32469,Communication,com.zing.zalo,False
+5.666666666666667,0.43521646,4.4701996,Middle 50%,446,32540,Books & Reference,com.aldiko.android,True
+6.0,5.3790655,-1.8452865,Middle 50%,447,32585,Art & Design,com.udn.howtodraw.undertale,False
+6.0,3.7972171,0.10492945,Middle 50%,448,32799,Social,com.chatous.pointblank,False
+5.333333333333333,-2.4940271,1.5841845,Bottom quartile,449,32937,Education,com.appcool.learnkorean,True
+4.333333333333333,0.83261377,3.5470657,Bottom quartile,450,32956,Travel & Local,com.scoutmob.ile,False
+5.5,3.0187678,-0.040375996,Middle 50%,451,33040,Shopping,com.modcloth,False
+5.666666666666667,5.8523684,-3.496737,Middle 50%,452,33052,Shopping,com.wanelo.android,False
+5.666666666666667,-8.9000225,-8.181787,Middle 50%,453,33134,Health & Fitness,com.playsimple.abworkoutchallenge,False
+6.666666666666667,-6.1340632,3.2590356,Top quartile,454,33268,Lifestyle,com.simplisafe.mobile,False
+4.666666666666667,4.8837357,-2.0700898,Bottom quartile,455,33423,Health & Fitness,com.runtastic.android.roadbike.lite,False
+6.0,4.676446,-2.977691,Middle 50%,456,33470,Sports,com.mileyenda.manager,False
+5.666666666666667,2.0272844,0.70012575,Middle 50%,457,33502,Shopping,com.qrbarcode.qrbarcodeScanner,False
+6.0,3.6719828,0.20389952,Middle 50%,458,33515,Music & Audio,com.xcs.mp3cutter,False
+5.333333333333333,-7.800991,6.292108,Bottom quartile,459,33563,Entertainment,bestfreelivewallpapers.my_photo_aquarium_wallpaper,False
+4.666666666666667,0.7654644,2.972579,Bottom quartile,460,33633,House & Home,com.infigate.accontrol,False
+5.666666666666667,-8.18932,-9.698421,Middle 50%,461,33756,Travel & Local,com.allstays.app.truckbigstops,False
+5.333333333333333,-8.330411,-6.0262804,Bottom quartile,462,33936,Health & Fitness,com.snorelab.app,False
+5.333333333333333,-9.018702,8.927714,Bottom quartile,463,33956,Health & Fitness,com.panagola.app.chakra,False
+6.0,2.9689388,-1.0757837,Middle 50%,464,33995,Parenting,innmov.babymanager,False
+5.666666666666667,4.8985014,-0.59525275,Middle 50%,465,34015,Travel & Local,com.digitalalliance.volagratis,False
+5.333333333333333,4.897083,-1.0677527,Bottom quartile,466,34023,Travel & Local,com.digitalalliance.volagratis,False
+6.666666666666667,-0.90992796,-2.7324452,Top quartile,467,34028,Travel & Local,com.digitalalliance.volagratis,False
+6.333333333333333,-3.885827,4.374693,Top quartile,468,34070,Entertainment,com.million.hd.backgrounds,False
+5.666666666666667,4.6499143,-0.0033416636,Middle 50%,469,34087,Medical,com.unbound.android.cqddl,False
+4.666666666666667,4.2162104,-0.057627518,Bottom quartile,470,34230,Dating,indian.girlschat,False
+5.333333333333333,1.9988569,1.79638,Bottom quartile,471,34268,Maps & Navigation,au.com.michaelsoft.vehiclelogger,False
+6.333333333333333,1.6039475,4.571511,Top quartile,472,34517,Business,com.timesgroup.magicbricks,False
+5.666666666666667,-6.246713,-0.72843605,Middle 50%,473,34546,Travel & Local,com.telenav.app.android.scout4cars,False
+5.0,4.75867,-1.1528759,Bottom quartile,474,34573,Lifestyle,com.hobbylobbystores.android,False
+6.666666666666667,2.0725222,0.6001957,Top quartile,475,34639,Entertainment,com.starmakerinteractive.thevoice,False
+7.0,3.6656594,-2.3567836,Top quartile,476,34667,Communication,com.fineapptech.ttalk,False
+6.666666666666667,5.233629,-0.89784807,Top quartile,477,34797,Shopping,net.groceryshopping.SproutsFarmersMarket,False
+5.666666666666667,-4.378838,-2.9740217,Middle 50%,478,34819,Communication,com.zulixsoft.android.bluetoothdetector,False
+6.0,3.5772634,0.08266123,Middle 50%,479,34823,Travel & Local,airlines.cheap.flights,False
+5.666666666666667,5.2702074,-1.8178663,Middle 50%,480,34935,Shopping,com.partycity,False
+5.666666666666667,2.1785398,3.6350312,Middle 50%,481,34961,Comics,playmint_studio1901.stories.panchatantra,True
+6.666666666666667,5.8439236,-3.5386696,Top quartile,482,35061,Communication,com.onexsoftech.mobilenumbertracker,False
+6.333333333333333,2.2633302,-1.8860784,Top quartile,483,35119,Medical,com.easymobs.pregnancy,False
+5.666666666666667,-7.848859,-1.7979798,Middle 50%,484,35147,Entertainment,com.fandango.regal,False
+5.666666666666667,-9.850788,-2.2947617,Middle 50%,485,35274,Social,com.livestar.livestarTV,False
+6.5,-10.70331,3.5108323,Top quartile,486,35391,Health & Fitness,com.codium.hydrocoach,False
+6.666666666666667,4.3534617,-1.6780968,Top quartile,487,35428,Travel & Local,com.guidebook.apps.MorpheusE3.android,False
+6.0,5.134961,-3.2184696,Middle 50%,488,35475,Comics,com.codingg.reader,True
+5.0,1.641314,5.460676,Bottom quartile,489,35528,News & Magazines,com.abclocal.kabc.news,False
+4.333333333333333,-7.2252254,-4.8332586,Bottom quartile,490,35542,Health & Fitness,ua.in.le1b.liberyexerceses,False
+5.333333333333333,-0.4442003,10.530278,Bottom quartile,491,35569,Shopping,com.yoshirt.app,False
+5.333333333333333,3.719158,1.0328901,Bottom quartile,492,35574,Shopping,com.yoshirt.app,False
+6.0,5.552988,-3.4272037,Middle 50%,493,35653,Music & Audio,org.xssembler.chordsplus,False
+4.666666666666667,3.9136286,-0.7834167,Bottom quartile,494,35715,Shopping,com.snapdeal.main,False
+6.5,-4.7971735,-0.5268964,Top quartile,495,35730,Weather,com.yahoo.mobile.client.android.weather,False
+5.5,-4.6360426,-2.9943004,Middle 50%,496,35769,Sports,com.andromo.dev442382.app408810,False
+6.666666666666667,3.6698935,2.1212447,Top quartile,497,35861,Books & Reference,com.ahmedblog.holyquranhd,True
+5.0,2.481685,0.09347367,Bottom quartile,498,36069,Education,com.NsouthProductions.gradetrackerpro,True
+5.666666666666667,1.8329878,1.0049367,Middle 50%,499,36073,Education,com.NsouthProductions.gradetrackerpro,True
+6.0,-6.972305,-4.347975,Middle 50%,500,36217,Music & Audio,mp3.music.musicplayertwoo,False
+6.666666666666667,0.28856102,0.0018888675,Top quartile,501,36234,Books & Reference,com.bravolang.korean,True
+7.333333333333333,3.0133152,0.56271094,Top quartile,502,36249,Books & Reference,com.bravolang.korean,True
+6.0,1.7897396,7.3755884,Middle 50%,503,36445,Finance,com.alifesoftware.stocktrainer,False
+6.333333333333333,4.0424714,-2.627791,Top quartile,504,36453,Communication,com.boatbrowser.free,False
+6.0,5.315861,-2.167211,Middle 50%,505,36475,Lifestyle,com.rkk.closet,False
+6.5,-7.3647084,-6.101903,Top quartile,506,36564,Communication,com.linecorp.conference,False
+6.0,-7.375257,-5.819707,Middle 50%,507,36565,Communication,com.linecorp.conference,False
+4.333333333333333,1.5810189,-0.1362012,Bottom quartile,508,36636,Parenting,au.com.penguinapps.android.beautifulcontractiontimer.app,False
+6.0,4.404091,-1.2438284,Middle 50%,509,36676,Medical,com.luckyxmobile.babycare,False
+6.666666666666667,5.837653,-3.1065516,Top quartile,510,36768,Maps & Navigation,ru.yandex.taxi,False
+7.333333333333333,-3.758017,-1.0380542,Top quartile,511,36817,Shopping,com.sears.shopyourway,False
+5.333333333333333,1.77403,5.376185,Bottom quartile,512,36822,Books & Reference,com.admobapp.flansmodforminecraft,True
+5.666666666666667,3.903326,2.0630145,Middle 50%,513,36844,News & Magazines,com.zinio.mobile.android.libraries,False
+6.333333333333333,-6.123238,1.4960027,Top quartile,514,36944,Entertainment,com.giago.imgsearch,False
+4.666666666666667,-6.593546,-3.016944,Bottom quartile,515,37048,Music & Audio,music.search.player.mp3player.cut.music,False
+6.666666666666667,2.8865085,0.5516458,Top quartile,516,37261,Health & Fitness,com.runloop.seconds.free,False
+5.0,1.9570978,0.64226705,Bottom quartile,517,37451,Communication,com.telenordigital.contacts,False
+6.666666666666667,-0.5324718,-3.009879,Top quartile,518,37471,Social,io.lulala.apps.dating,False
+5.666666666666667,5.241452,-1.9391392,Middle 50%,519,37515,Business,com.scanbizcards,False
+5.333333333333333,-3.2852924,2.5541887,Bottom quartile,520,37528,Sports,com.fishbrain.app,False
+6.333333333333333,4.553068,0.54503965,Top quartile,521,37587,Education,com.fusionprojects.edmodo,True
+6.0,-1.3140275,2.4033916,Middle 50%,522,37641,Education,org.brilliant.android,True
+5.666666666666667,-8.211491,2.4672453,Middle 50%,523,37646,Health & Fitness,com.coloradostate.health,False
+6.0,2.5377836,2.052429,Middle 50%,524,37939,Education,com.sololearn.csharp,True
+5.0,-5.5730934,-5.5324993,Bottom quartile,525,38163,Education,com.pluralsight,True
+5.0,-6.9311914,-4.844024,Bottom quartile,526,38175,News & Magazines,net.jimblackler.newswidget,False
+5.666666666666667,-7.8023043,-1.3661585,Middle 50%,527,38191,Communication,com.validio.kontaktkarte.dialer,False
+6.0,3.6328926,-0.23474205,Middle 50%,528,38193,Education,com.chineseskill,True
+6.5,1.9250441,2.3018823,Top quartile,529,38201,Dating,mk.g6.breakupfreedomapp,False
+6.0,-4.998753,-2.056807,Middle 50%,530,38268,Sports,com.picobrothers.dhcf,False
+6.0,2.3891008,3.451326,Middle 50%,531,38467,Entertainment,net.flixster.android,False
+6.333333333333333,4.4327383,-0.2596513,Top quartile,532,38615,Finance,com.sbi.SBIFreedomPlus,False
+6.0,4.6450844,-1.9228823,Middle 50%,533,38669,Food & Drink,com.bigoven.android,False
+6.666666666666667,-3.6735642,-2.3814092,Top quartile,534,38731,Food & Drink,com.cookware.cakerecipes,False
+6.0,-9.967814,2.4330068,Middle 50%,535,38788,Finance,com.military.militarypay,False
+4.666666666666667,-0.74341667,4.4847503,Bottom quartile,536,38813,News & Magazines,com.tyt,False
+6.0,-1.962085,1.3901924,Middle 50%,537,39217,Education,com.mathpapa.mathpapa,True
+5.666666666666667,4.693868,-2.21729,Middle 50%,538,39248,Health & Fitness,jp.united.app.kanahei.weightapp,False
+6.0,2.9615092,-0.51408017,Middle 50%,539,39279,Lifestyle,com.practecol.guardzilla2,False
+4.0,4.06818,-0.22479224,Bottom quartile,540,39384,Auto & Vehicles,com.andrzejsalwin.motorcyclefuellogfree,False
+5.333333333333333,0.93770266,1.2416408,Bottom quartile,541,39385,Auto & Vehicles,com.andrzejsalwin.motorcyclefuellogfree,False
+6.0,2.7455292,0.2823947,Middle 50%,542,39411,Shopping,com.lazada.android,False
+5.666666666666667,5.8632207,-2.6801522,Middle 50%,543,39567,Shopping,com.shopmium,False
+6.333333333333333,5.4991646,-3.5411887,Top quartile,544,39697,Entertainment,com.spuul.android,False
+6.0,-2.7488317,-0.21252383,Middle 50%,545,39710,Entertainment,com.spuul.android,False
+6.333333333333333,5.3040476,-1.8137478,Top quartile,546,39811,Travel & Local,com.afklm.mobile.android.gomobile.klm,False
+6.0,6.089532,-2.9301524,Middle 50%,547,39822,Travel & Local,com.afklm.mobile.android.gomobile.klm,False
+6.666666666666667,2.5612392,2.6698847,Top quartile,548,39856,Business,com.ics.creditcardreader,False
+5.333333333333333,-0.8525516,4.830158,Bottom quartile,549,39863,Sports,com.yinzcam.nfl.lions,False
+5.666666666666667,5.8751683,-4.4188943,Middle 50%,550,40063,Travel & Local,com.vinternete.livecams,False
+6.0,5.09611,-2.3091311,Middle 50%,551,40064,Travel & Local,com.vinternete.livecams,False
+6.0,2.9380498,1.3314618,Middle 50%,552,40161,Education,kr.co.smartstudy.pinkfongtv_android_googlemarket,True
+5.333333333333333,3.893524,-1.1512879,Bottom quartile,553,40266,Business,com.lotus.sync.traveler,False
+5.666666666666667,5.6856556,-4.7906537,Middle 50%,554,40428,Books & Reference,bible.king.james.app,True
+5.666666666666667,3.1877432,0.8898548,Middle 50%,555,40455,Lifestyle,com.af.screenmanager,False
+6.666666666666667,-3.794716,2.111713,Top quartile,556,40508,Entertainment,tv.cinetrailer.mobile.b,False
+4.666666666666667,-12.598048,-3.4861612,Bottom quartile,557,40527,Books & Reference,com.movinapp.dict.english.free,True
+5.0,-11.082043,3.6200254,Bottom quartile,558,40538,Social,com.linkedin.android,False
+7.0,2.7672212,-1.5827992,Top quartile,559,40572,Social,com.linkedin.android,False
+5.5,4.933278,-1.2479208,Middle 50%,560,40817,Social,com.kamcord.app,False
+7.0,4.4235644,-2.115427,Top quartile,561,40882,Finance,com.discoverfinancial.mobile,False
+6.666666666666667,3.171698,2.449815,Top quartile,562,40995,Shopping,com.girnarsoft.bikedekho,False
+6.333333333333333,-9.739993,1.4767635,Top quartile,563,41022,Lifestyle,com.medoli.astrohoroscope,False
+5.666666666666667,-5.3911343,-6.011508,Middle 50%,564,41027,Music & Audio,com.clearchannel.iheartradio.controller,False
+5.666666666666667,4.2223964,-0.17593718,Middle 50%,565,41043,Music & Audio,com.clearchannel.iheartradio.controller,False
+5.333333333333333,3.1131825,0.14509244,Bottom quartile,566,41053,Video Players & Editors,com.zgz.app.video,False
+5.0,-6.3656306,-5.949807,Bottom quartile,567,41144,Sports,com.yinzcam.nfl.rams,False
+5.666666666666667,-12.3887205,4.9439573,Middle 50%,568,41169,Business,com.razorsync,False
+6.333333333333333,3.4723372,0.42359623,Top quartile,569,41272,Communication,com.yuilop,False
+5.333333333333333,-5.338933,-5.814322,Bottom quartile,570,41433,Social,com.narvii.amino.x195570892,False
+5.666666666666667,5.489395,-2.038752,Middle 50%,571,41498,News & Magazines,com.ap.advml,False
+6.333333333333333,4.462034,0.8692632,Top quartile,572,41580,Health & Fitness,com.atkins.android.carbcounter,False
+5.333333333333333,-0.6143069,-2.5860474,Bottom quartile,573,41598,Food & Drink,com.riatech.souprecipes,False
+6.333333333333333,4.358432,0.954316,Top quartile,574,41735,Education,com.funeasylearn.italian,True
+6.0,1.2474488,-0.72033113,Middle 50%,575,41744,Weather,com.wate.weather,False
+5.333333333333333,-3.9306896,1.7470176,Bottom quartile,576,41789,Books & Reference,com.audubon.mobile.android,True
+5.666666666666667,1.7099407,2.090783,Middle 50%,577,41836,Social,com.kkkeyboard.emoji.keyboard.theme.PinkJelly,False
+6.666666666666667,4.9911985,-2.890821,Top quartile,578,41870,Health & Fitness,com.google.android.apps.fitness,False
+5.333333333333333,3.9696727,0.5839063,Bottom quartile,579,42125,Food & Drink,id.mcdonalds.delivery,False
+6.0,-8.018724,2.242378,Middle 50%,580,42166,Sports,com.apps.tomlinson.fut16draftsimulator2,False
+6.0,2.6776025,-0.52111334,Middle 50%,581,42264,Lifestyle,com.honeywell.mobile.android.totalComfort,False
+6.5,5.021594,-2.088932,Top quartile,582,42322,Travel & Local,com.kineticfarm.orderahead,False
+7.0,-8.093567,-0.23793028,Top quartile,583,42403,Health & Fitness,com.portablepixels.smokefree,False
+6.0,5.3659916,-3.392336,Middle 50%,584,42436,Shopping,fi.android.takealot,False
+6.0,5.4776316,-1.5877333,Middle 50%,585,42468,Shopping,fi.android.takealot,False
+6.333333333333333,2.7294185,1.0944668,Top quartile,586,42537,Maps & Navigation,com.sprint.drive.first.safely.driver.safety.stop.texting.driving,False
+5.666666666666667,-4.4625525,-4.4367685,Middle 50%,587,42701,Sports,com.asai24.golf,False
+5.0,3.5186489,-0.2719009,Bottom quartile,588,42706,Education,com.classdojo.android,True
+6.666666666666667,-7.28781,-0.2797938,Top quartile,589,42938,Dating,com.muzmatch.muzmatchapp,False
+5.333333333333333,2.4376097,3.7878287,Bottom quartile,590,43000,Sports,com.internetbrands.android.racingjunk,False
+5.333333333333333,3.8840134,-0.6241571,Bottom quartile,591,43010,Sports,com.internetbrands.android.racingjunk,False
+6.0,1.8513652,0.013892602,Middle 50%,592,43047,Finance,com.kitco.android.free.activities,False
+5.333333333333333,4.2519374,1.6671555,Bottom quartile,593,43070,Medical,com.vivek.pocketmedbook,False
+4.666666666666667,5.696876,-3.6861181,Bottom quartile,594,43096,Communication,com.magicjack.connect,False
+5.333333333333333,-5.333702,-4.2320967,Bottom quartile,595,43141,Sports,atpwta.live,False
+5.333333333333333,-3.6610548,-2.9592085,Bottom quartile,596,43143,Sports,atpwta.live,False
+6.333333333333333,2.8759294,-0.3225998,Top quartile,597,43199,Business,com.manheim.mobile,False
+6.0,3.7045288,1.5993667,Middle 50%,598,43220,Health & Fitness,com.ejercicioscaseros,False
+6.0,3.3508193,1.9621043,Middle 50%,599,43320,Communication,com.telos.app.im,False
+5.666666666666667,3.3863153,-0.7779836,Middle 50%,600,43430,Food & Drink,com.cookware.ricerecipes,False
+6.333333333333333,2.8426743,6.1197834,Top quartile,601,43625,Social,com.g.pocketmal,False
+5.0,4.527219,-2.8629942,Bottom quartile,602,43797,Communication,jp.naver.line.android,False
+7.0,5.122698,-3.3294826,Top quartile,603,43913,Entertainment,com.tiltedchair.cacomic,False
+6.333333333333333,2.1060324,-0.54082495,Top quartile,604,43973,Business,com.shapr,False
+5.333333333333333,-8.68297,-6.0833874,Bottom quartile,605,43986,Books & Reference,com.movinapp.dict.enes.free,True
+6.0,-2.0308843,-2.354741,Middle 50%,606,44015,Lifestyle,com.android.demo.notepad2,False
+5.0,1.096412,-0.27450264,Bottom quartile,607,44022,Weather,com.walb.android.weather,False
+4.0,0.9454053,-1.518032,Bottom quartile,608,44024,Weather,com.walb.android.weather,False
+6.0,0.9159347,0.84446126,Middle 50%,609,44026,Weather,com.walb.android.weather,False
+6.0,-5.3305054,-8.928251,Middle 50%,610,44039,Books & Reference,com.greenleaf.android.translator.enes.a,True
+6.333333333333333,3.50842,-2.0529838,Top quartile,611,44125,Finance,com.circle.android,False
+6.0,5.15862,0.039917063,Middle 50%,612,44200,Weather,com.rsoftr.android.earthquakestracker.add,False
+6.333333333333333,3.6698477,2.3264194,Top quartile,613,44210,Weather,com.rsoftr.android.earthquakestracker.add,False
+6.666666666666667,3.32975,-1.8363698,Top quartile,614,44308,Travel & Local,in.redbus.android,False
+6.0,4.4964867,-0.23312587,Middle 50%,615,44323,Travel & Local,in.redbus.android,False
+6.333333333333333,4.4766335,-0.28631973,Top quartile,616,44324,Travel & Local,in.redbus.android,False
+6.0,5.6560917,-2.7378013,Middle 50%,617,44360,Shopping,com.headcode.ourgroceries,False
+4.333333333333333,-3.4316502,9.914756,Bottom quartile,618,44465,Food & Drink,dil.baking_recipe,False
+6.333333333333333,1.3589048,-0.015315939,Top quartile,619,44525,Entertainment,com.google.android.play.games,False
+5.666666666666667,4.8841395,-2.1125698,Middle 50%,620,44608,Social,ru.mamba.client,False
+6.0,1.2127237,-0.40314278,Middle 50%,621,44715,Music & Audio,com.batanga,False
+5.333333333333333,2.6460638,0.59358543,Bottom quartile,622,44729,Lifestyle,net.pandora,False
+5.0,-2.9227862,-4.548476,Bottom quartile,623,44800,Travel & Local,com.conducivetech.android.traveler,False
+5.666666666666667,3.5738528,2.2468262,Middle 50%,624,44819,Shopping,com.lazada.android,False
+6.666666666666667,4.76518,-1.4785317,Top quartile,625,44854,Communication,com.talkatone.android,False
+6.666666666666667,0.34038642,0.5116642,Top quartile,626,44862,Communication,com.talkatone.android,False
+6.333333333333333,-5.47228,-9.098057,Top quartile,627,44993,Medical,androiddeveloperjoe.pickacolornightlightfree,False
+6.666666666666667,5.043375,1.0257324,Top quartile,628,45328,Finance,com.firstnational.omaha,False
+6.0,-0.9278439,2.6909747,Middle 50%,629,45333,Education,com.mres.schedule,True
+6.333333333333333,2.9122748,0.44385368,Top quartile,630,45373,Education,com.voxy.news,True
+6.666666666666667,-10.867037,3.950122,Top quartile,631,45384,Education,com.rrpublication.volt.volt,True
+5.666666666666667,1.3693826,-0.39254907,Middle 50%,632,45679,Communication,com.plantronics.headsetservice,False
+6.333333333333333,-3.6057024,3.7106,Top quartile,633,45724,Lifestyle,com.iphone.launcher.prank,False
+6.333333333333333,5.66298,-2.3098445,Top quartile,634,45734,Shopping,com.heb.android,False
+7.0,-6.706585,4.6345444,Top quartile,635,45775,Entertainment,com.functionx.viggle,False
+6.333333333333333,-1.0532446,1.1110858,Top quartile,636,45798,Entertainment,com.lge.media.lgpocketphoto,False
+5.333333333333333,3.4117248,5.3496904,Bottom quartile,637,45949,Shopping,com.hsn.android,False
+5.0,4.9670825,-1.4651005,Bottom quartile,638,45950,Shopping,com.hsn.android,False
+6.0,4.8222055,-0.7573337,Middle 50%,639,45962,Shopping,com.hsn.android,False
+4.666666666666667,1.5678706,2.0046096,Bottom quartile,640,46173,Sports,com.atlasappco.draftkingsdailyfootball,False
+4.666666666666667,0.81723666,2.2763166,Bottom quartile,641,46175,Sports,com.atlasappco.draftkingsdailyfootball,False
+6.0,-7.1047716,0.12539482,Middle 50%,642,46195,Sports,com.atlasappco.draftkingsdailyfootball,False
+5.333333333333333,-4.7707415,-5.1061363,Bottom quartile,643,46196,Sports,com.atlasappco.draftkingsdailyfootball,False
+5.666666666666667,3.9930644,2.0565724,Middle 50%,644,46230,House & Home,com.zalebox.apartment.decorating.ideas.h1,False
+6.0,4.2826405,-0.56018835,Middle 50%,645,46309,Social,fr.im,False
+5.666666666666667,5.001604,-1.5631623,Middle 50%,646,46361,Social,com.dhgate.socialshops,False
+5.333333333333333,-10.698044,1.5774702,Bottom quartile,647,46444,Books & Reference,com.idelata.VerseADayFree,True
+5.333333333333333,3.5470738,-2.5890963,Bottom quartile,648,46556,Weather,com.droid27.digitalclockweather,False
+6.0,3.354073,3.2067273,Middle 50%,649,46606,Business,com.cp.mpos,False
+6.333333333333333,5.649869,-4.119913,Top quartile,650,46628,Health & Fitness,com.withings.wiscale2,False
+6.666666666666667,-2.9977865,6.7280226,Top quartile,651,46658,Sports,com.contorra.golfpad,False
+4.666666666666667,1.6386672,2.2762089,Bottom quartile,652,46663,Sports,com.contorra.golfpad,False
+6.333333333333333,-7.5057206,4.9576154,Top quartile,653,46664,Sports,com.contorra.golfpad,False
+6.0,3.3540697,0.6766263,Middle 50%,654,46698,Travel & Local,com.hrs.android,False
+5.666666666666667,2.596519,3.2267838,Middle 50%,655,46973,Health & Fitness,com.purewowstudio.bodycal,False
+6.0,3.5850043,-0.16575317,Middle 50%,656,46999,Parenting,com.mychildharsh.mychild,False
+6.0,1.6257846,1.4365082,Middle 50%,657,47007,Books & Reference,com.google.android.apps.books,True
+6.333333333333333,1.1306728,1.3712566,Top quartile,658,47012,Books & Reference,com.google.android.apps.books,True
+6.666666666666667,-7.6984987,5.036247,Top quartile,659,47059,Business,com.mobisystems.fileman,False
+6.666666666666667,5.8749065,-3.1439204,Top quartile,660,47096,Travel & Local,com.vl.spicejet,False
+5.333333333333333,3.5043516,-0.28789514,Bottom quartile,661,47099,Travel & Local,com.vl.spicejet,False
+6.333333333333333,1.4333955,7.9039307,Top quartile,662,47137,Education,com.bc.avm,True
+5.666666666666667,4.652007,-1.6376961,Middle 50%,663,47284,Communication,com.didirelease.view,False
+6.0,5.876875,-3.1370435,Middle 50%,664,47319,Finance,com.onedebit.chime,False
+6.0,3.029181,2.9916434,Middle 50%,665,47385,Health & Fitness,com.fitnesskeeper.runkeeper.pro,False
+6.333333333333333,4.838087,-1.3647474,Top quartile,666,47416,Business,com.mobisystems.office,False
+6.666666666666667,3.6267548,-1.052557,Top quartile,667,47689,Parenting,com.addodoc.care,False
+6.333333333333333,4.4483404,-0.29715607,Top quartile,668,47692,Parenting,com.addodoc.care,False
+6.0,4.123123,3.003852,Middle 50%,669,47750,Parenting,com.mycity4kids,False
+5.333333333333333,4.6704917,-3.13696,Bottom quartile,670,47816,Auto & Vehicles,com.prizmos.carista,False
+6.333333333333333,1.0501037,-0.18749665,Top quartile,671,47853,Medical,com.mistdev.icdfree,False
+5.0,-6.3908386,-5.8431277,Bottom quartile,672,47950,Sports,com.cbs.sportsapp.android.psu,False
+5.333333333333333,1.8942028,1.8118083,Bottom quartile,673,48019,Finance,com.sevencsolutions.myfinances,False
+6.0,3.5568657,0.2678279,Middle 50%,674,48026,Finance,com.sevencsolutions.myfinances,False
+6.333333333333333,3.637468,-2.10907,Top quartile,675,48049,Entertainment,com.firelitstudios.monogram.freemium,False
+5.333333333333333,5.5703726,-3.1597035,Bottom quartile,676,48128,Beauty,com.birchbox.birchbox,False
+5.666666666666667,3.9735546,1.3589842,Middle 50%,677,48178,News & Magazines,com.raycom.wlox,False
+6.0,-2.2930477,0.021202903,Middle 50%,678,48236,Health & Fitness,com.stt.android,False
+6.666666666666667,-2.735555,-1.1261771,Top quartile,679,48238,Health & Fitness,com.stt.android,False
+6.0,5.088234,-1.8722649,Middle 50%,680,48277,Finance,com.Splitwise.SplitwiseMobile,False
+6.666666666666667,4.1422515,-1.5334504,Top quartile,681,48282,Finance,com.Splitwise.SplitwiseMobile,False
+5.666666666666667,5.5752764,-2.795664,Middle 50%,682,48488,Auto & Vehicles,com.bsro.fcac,False
+5.333333333333333,-6.791745,-6.344173,Bottom quartile,683,48615,Entertainment,com.wikia.app.GameGuides,False
+6.0,5.3969946,-2.0562224,Middle 50%,684,48668,Music & Audio,com.mrgreensoft.nrg.player,False
+6.0,-5.842414,-6.474033,Middle 50%,685,48697,Maps & Navigation,com.duanstar.cta,False
+5.333333333333333,-3.633046,-3.60474,Bottom quartile,686,48699,Maps & Navigation,com.duanstar.cta,False
+5.333333333333333,-3.6328287,-3.599537,Bottom quartile,687,48700,Maps & Navigation,com.duanstar.cta,False
+5.666666666666667,3.6063466,-1.6986527,Middle 50%,688,48721,Books & Reference,empire.trinity.bibleapp,True
+5.333333333333333,-9.121513,-0.63034827,Bottom quartile,689,48871,Entertainment,com.rr.lovecalculator,False
+5.666666666666667,2.6882706,13.662632,Middle 50%,690,48875,Medical,org.northshore.northshoreconnect,False
+6.0,4.4597087,-1.9246902,Middle 50%,691,48886,Travel & Local,com.yiba.sharewe.lite.activity,False
+5.666666666666667,2.030404,-2.5431006,Middle 50%,692,49000,Entertainment,com.visvanoid.secretbrowse,False
+4.666666666666667,-4.983293,8.488549,Bottom quartile,693,49126,Video Players & Editors,flashflick.video.downloader,False
+6.0,-2.9491467,1.6667918,Middle 50%,694,49139,Entertainment,com.scannerradio,False
+5.0,-2.979604,-5.286796,Bottom quartile,695,49144,Entertainment,com.scannerradio,False
+6.0,-12.123436,3.5206532,Middle 50%,696,49276,Lifestyle,com.name.picture.lockscreen,False
+6.0,-7.1876273,-5.8694324,Middle 50%,697,49394,Sports,sourcerabbit.android.apps.huntingcallsultimate,False
+4.666666666666667,1.8922899,2.6659956,Bottom quartile,698,49516,Travel & Local,com.traveloka.android,False
+5.0,4.8609266,-2.1064315,Bottom quartile,699,49571,Business,com.taxbot,False
+5.666666666666667,5.0253434,-2.915718,Middle 50%,700,49627,Social,com.mywickr.wickr2,False
+5.666666666666667,-13.214272,0.8650739,Middle 50%,701,49714,Sports,com.horseracesnow.android,False
+6.333333333333333,4.924318,-2.2180345,Top quartile,702,49733,Weather,air.byss.mobi.instaweatherfree,False
+6.0,-2.470039,5.0164394,Middle 50%,703,49865,Books & Reference,com.funmeapp.wiccaerbario,True
+5.666666666666667,-1.5013857,5.0013633,Middle 50%,704,50019,Travel & Local,com.ebookers,False
+6.333333333333333,4.4594584,-1.0954393,Top quartile,705,50069,Food & Drink,com.global.hellofood.android,False
+6.333333333333333,2.2265594,-2.160772,Top quartile,706,50071,Food & Drink,com.global.hellofood.android,False
+6.0,4.6856475,-0.2218364,Middle 50%,707,50151,Finance,com.pnc.ecommerce.mobile.vw.android,False
+5.666666666666667,5.0427732,-1.2525864,Middle 50%,708,50156,Finance,com.pnc.ecommerce.mobile.vw.android,False
+6.0,1.6968527,-2.071268,Middle 50%,709,50219,Maps & Navigation,com.funforfones.android.lametro,False
+6.333333333333333,3.5734296,0.5590291,Top quartile,710,50247,Communication,com.vzw.gizmopal,False
+6.0,-9.738736,-0.23980384,Middle 50%,711,50286,Education,com.nclexpn.hlt,True
+6.666666666666667,3.8289552,2.5714183,Top quartile,712,50380,Food & Drink,com.postmates.android,False
+6.0,3.8865786,-0.123252705,Middle 50%,713,50475,Food & Drink,com.talabat,False
+4.666666666666667,1.5309131,1.4590042,Bottom quartile,714,50515,House & Home,com.rent,False
+5.666666666666667,5.7377005,-1.8053029,Middle 50%,715,50563,Social,com.jaumo.lesbian,False
+5.333333333333333,-0.3306611,1.0453207,Bottom quartile,716,50625,Weather,com.wsi.android.intellicast,False
+5.666666666666667,-12.876591,-0.7556645,Middle 50%,717,50718,Weather,com.wjhl.android.weather,False
+5.666666666666667,-3.399014,0.88716245,Middle 50%,718,50855,Communication,com.thesimpleandroidguy.apps.messageclient,False
+5.666666666666667,-2.807448,5.3995657,Middle 50%,719,50917,Travel & Local,com.expedia.bookings,False
+6.666666666666667,2.2432702,-1.0522816,Top quartile,720,50918,Travel & Local,com.expedia.bookings,False
+6.666666666666667,4.2096577,1.3497546,Top quartile,721,50967,Lifestyle,com.starttoday.android.wear,False
+4.666666666666667,4.6263504,-1.9473072,Bottom quartile,722,50978,Lifestyle,com.starttoday.android.wear,False
+5.333333333333333,5.551249,-2.423982,Bottom quartile,723,51218,Social,com.beme.android,False
+5.0,3.9056084,0.62192637,Bottom quartile,724,51226,Finance,com.tdameritrade.mobile3,False
+7.0,-4.9122276,6.164472,Top quartile,725,51262,Health & Fitness,com.proactiveapp.womanlogpregnancy.free,False
+5.666666666666667,2.7821286,-1.3456542,Middle 50%,726,51272,Education,com.sololearn,True
+6.0,5.8709555,-4.4858937,Middle 50%,727,51326,House & Home,com.apartments.mobile.android,False
+5.666666666666667,0.061399482,2.5124576,Middle 50%,728,51498,Communication,com.everbridge.mobile.iv.recipient,False
+5.333333333333333,1.7321064,7.6390224,Bottom quartile,729,51540,Books & Reference,com.biblediscovery,True
+6.0,0.10523825,2.311845,Middle 50%,730,51549,Shopping,com.globalegrow.app.rosegal,False
+6.333333333333333,5.369213,-3.4902563,Top quartile,731,51552,Shopping,com.globalegrow.app.rosegal,False
+6.0,2.3793788,-0.556891,Middle 50%,732,51591,Parenting,com.timersinc.tfam,False
+5.666666666666667,-7.522167,-3.30461,Middle 50%,733,51689,Lifestyle,net.nakvic.dromoris,False
+6.666666666666667,0.2485186,4.8813195,Top quartile,734,51722,Education,com.udemy.android,True
+5.0,3.1672373,-0.39823988,Bottom quartile,735,51727,Health & Fitness,com.healthagen.iTriage,False
+4.333333333333333,1.4191002,-0.95605487,Bottom quartile,736,51728,Health & Fitness,com.healthagen.iTriage,False
+5.0,2.9496808,-0.18444468,Bottom quartile,737,51732,Health & Fitness,com.healthagen.iTriage,False
+7.0,4.484829,-0.7928756,Top quartile,738,51772,Health & Fitness,com.sharecare.askmd,False
+5.333333333333333,1.5942984,1.3809524,Bottom quartile,739,51968,Sports,com.bamnetworks.mobile.android.gameday.milb,False
+6.0,-5.42884,-3.386945,Middle 50%,740,52307,Education,com.deepriverdev.carlite,True
+5.666666666666667,3.0010672,-1.1227827,Middle 50%,741,52370,Education,com.duolingo,True
+7.0,3.0728567,-0.3734001,Top quartile,742,52749,Social,com.whatsfake.fakechat,False
+6.333333333333333,-4.2823277,-1.6057597,Top quartile,743,52789,Music & Audio,com.radiolight.etatsunis,False
+5.0,-6.622858,7.595934,Bottom quartile,744,52856,Lifestyle,com.ukrf.charlesstanley,False
+5.666666666666667,2.2882528,-0.11700745,Middle 50%,745,53089,Sports,com.yinzcam.nfl.bengals,False
+5.333333333333333,4.127303,-3.5378165,Bottom quartile,746,53276,Video Players & Editors,cyberniko.musicFolderPlayer,False
+5.0,2.887236,-0.305029,Bottom quartile,747,53277,Video Players & Editors,cyberniko.musicFolderPlayer,False
+6.333333333333333,2.7852814,2.8826375,Top quartile,748,53392,Weather,com.cube.arc.hzd,False
+5.666666666666667,2.4011984,4.329815,Middle 50%,749,53422,Auto & Vehicles,dto.ee.dmv.genius,False
+7.0,0.7632117,5.430951,Top quartile,750,53440,Books & Reference,org.wikipedia,True
+5.666666666666667,4.6371512,-1.7052952,Middle 50%,751,53478,Business,com.micen.buyers.activity,False
+5.666666666666667,-7.269474,8.647127,Middle 50%,752,53509,Entertainment,de.twokit.video.tv.cast.browser.lg,False
+6.0,-8.82897,-5.188354,Middle 50%,753,53615,Art & Design,com.hola.launcher.theme.neon.skull.night.harajuku,False
+6.0,5.3405037,-1.9156,Middle 50%,754,53660,News & Magazines,com.doapps.android.mln.MLN_b3ff766402d6d975200b86a42ea504b0,False
+5.0,4.9761558,-2.1466918,Bottom quartile,755,53722,Shopping,com.groceryking.freeapp,False
+6.0,3.888258,4.34446,Middle 50%,756,53799,Travel & Local,com.exchangeinitiative.traffickcam,False
+5.0,3.6055865,0.44601655,Bottom quartile,757,53893,Business,com.cash.champ,False
+5.0,-5.539878,7.279841,Bottom quartile,758,54090,Health & Fitness,com.gymtrainer,False
+4.666666666666667,2.5995164,3.1437638,Bottom quartile,759,54160,Entertainment,com.acessevip.tvoqpassa,False
+5.666666666666667,-3.3810296,-1.7455666,Middle 50%,760,54179,Weather,com.gismeteo.client,False
+5.666666666666667,5.998495,-2.3796897,Middle 50%,761,54202,Shopping,com.influenster,False
+5.0,-8.421406,0.95340365,Bottom quartile,762,54237,Social,vsoft.aadharlinking,False
+5.666666666666667,4.8631697,-1.74086,Middle 50%,763,54362,Education,com.babbel.mobile.android.en,True
+6.666666666666667,-3.7682617,-0.25558817,Top quartile,764,54412,Sports,com.scoremyrack,False
+6.666666666666667,5.554585,-1.5471402,Top quartile,765,54468,Business,com.pdffiller,False
+4.666666666666667,-8.6471405,4.4006195,Bottom quartile,766,54542,Travel & Local,com.mttnow.android.copa.production,False
+6.0,-4.2386017,4.339033,Middle 50%,767,54607,Maps & Navigation,com.crosschasm.evchargerlocator,False
+5.333333333333333,-4.9435024,1.1010363,Bottom quartile,768,54740,Books & Reference,com.neverland.alreader,True
+6.333333333333333,4.0880933,0.22458535,Top quartile,769,54823,Shopping,com.jet.jet.app,False
+6.666666666666667,-1.5680817,6.9681597,Top quartile,770,54855,Social,com.facebook.katana.love.emoji,False
+6.333333333333333,1.5129304,1.6963279,Top quartile,771,54887,Education,com.funeasylearn.japanese,True
+6.0,-8.238289,-2.0476513,Middle 50%,772,55027,Sports,andrewgilman.dartsscoreboard,False
+5.0,3.321721,0.8320313,Bottom quartile,773,55064,Finance,com.stockmarket.pennystocks,False
+6.0,1.0804583,4.245759,Middle 50%,774,55484,Lifestyle,com.bitsmedia.android.muslimpro,False
+6.0,-4.074323,1.1277208,Middle 50%,775,55726,Sports,com.sharpsol.softdrug.huntingcalls,False
+5.0,5.7746763,-2.388987,Bottom quartile,776,55789,Finance,com.apps.balli.mywallet,False
+5.333333333333333,5.534379,-1.7894571,Bottom quartile,777,55810,Beauty,com.beautycamera.selfiecamera,False
+5.666666666666667,4.3412,-1.0413214,Middle 50%,778,55925,Health & Fitness,com.lf.lfvtandroid,False
+6.0,1.8997904,1.715764,Middle 50%,779,56000,Education,com.ba.fractioncalculator,True
+4.666666666666667,-9.622482,-4.594109,Bottom quartile,780,56085,Sports,lunosoftware.ncaafbscores,False
+5.333333333333333,3.9058828,-1.1174744,Bottom quartile,781,56234,Communication,com.appple.app.email,False
+5.333333333333333,3.2405238,-0.20757072,Bottom quartile,782,56293,Social,com.appspot.swisscodemonkeys.love,False
+5.666666666666667,-2.9050806,0.31805307,Middle 50%,783,56376,Health & Fitness,com.tmsoft.whitenoise.lite,False
+6.333333333333333,4.5755363,-2.44206,Top quartile,784,56413,Social,com.whoshere.whoshere,False
+5.666666666666667,2.3804355,2.119071,Middle 50%,785,56472,Shopping,org.consumerreports.ratings,False
+6.333333333333333,-7.858884,-3.3583894,Top quartile,786,56482,Communication,com.cmcm.armorfly,False
+5.333333333333333,4.6643934,-1.1787295,Bottom quartile,787,56503,Lifestyle,com.ptitchef.android,False
+6.666666666666667,-12.829084,4.000994,Top quartile,788,56547,Health & Fitness,co.thefabulous.app,False
+6.666666666666667,-2.0175843,0.5304182,Top quartile,789,56628,Sports,com.uefa.uel,False
+5.333333333333333,3.7592854,6.102072,Bottom quartile,790,56663,Education,com.sign.language.learn1234,True
+6.333333333333333,1.6614227,1.4796236,Top quartile,791,56701,Weather,com.wetter.androidclient,False
+5.666666666666667,-7.439584,-5.892184,Middle 50%,792,56791,Entertainment,com.lge.tv.remoteapps,False
+5.666666666666667,4.1162224,-0.8771822,Middle 50%,793,57282,Health & Fitness,com.mapmywalk.android2,False
+6.0,1.5950937,-0.4849136,Middle 50%,794,57289,Health & Fitness,com.mapmywalk.android2,False
+6.666666666666667,1.9168389,-0.69884104,Top quartile,795,57303,Health & Fitness,com.mapmywalk.android2,False
+5.666666666666667,2.9842014,2.0866199,Middle 50%,796,57355,Medical,com.phonak.tinnitus,False
+6.0,4.378457,-0.36319852,Middle 50%,797,57450,Sports,com.yinzcam.nfl.bills,False
+5.333333333333333,4.5544386,-0.10414201,Bottom quartile,798,57500,Health & Fitness,com.webmd.baby,False
+5.75,6.084349,-4.7158384,Middle 50%,799,57535,Entertainment,mobi.borken.android.moodscanner,False
+5.666666666666667,4.4088087,-1.08209,Middle 50%,800,57540,Finance,in.chillr,False
+7.0,3.6286788,-0.45497105,Top quartile,801,57601,Sports,de.motain.iliga,False
+6.0,-12.7101145,-0.6657978,Middle 50%,802,57625,Weather,com.kfda.android.weather,False
+5.333333333333333,5.8689423,-2.846529,Bottom quartile,803,57631,Books & Reference,bible.bibleverse.biblia.bibleverses.scripture.holywrit.verse.devotion,True
+5.666666666666667,0.85723084,2.0701776,Middle 50%,804,57636,Books & Reference,bible.bibleverse.biblia.bibleverses.scripture.holywrit.verse.devotion,True
+7.0,4.1265745,0.5241912,Top quartile,805,57750,Communication,com.groupme.android,False
+6.0,2.0807924,-1.680937,Middle 50%,806,57907,Business,com.fedex.ida.android,False
+4.666666666666667,-6.0530157,-5.8537655,Bottom quartile,807,57929,Maps & Navigation,com.drivewyze.agatha2,False
+5.666666666666667,2.5871542,2.4451792,Middle 50%,808,57973,Health & Fitness,com.tracker.happypregnancy,False
+5.333333333333333,4.249858,-0.01079132,Bottom quartile,809,58050,Finance,com.boondoggle.autocalc,False
+6.333333333333333,2.327065,2.9530358,Top quartile,810,58124,Business,com.zoho.invoicegenerator,False
+4.666666666666667,-7.9958863,-4.182412,Bottom quartile,811,58314,Music & Audio,com.music.player.mp3player.white,False
+5.333333333333333,1.1644031,-0.3320138,Bottom quartile,812,58355,Weather,com.kwch.android.weather,False
+7.333333333333333,1.8723948,-0.93032604,Top quartile,813,58424,Travel & Local,org.paoloconte.treni_lite,False
+6.333333333333333,5.065997,-3.102088,Top quartile,814,58560,Medical,tikamori.com.boyorgirl,False
+5.333333333333333,3.8422885,0.18537928,Bottom quartile,815,58751,Parenting,com.babycenter.pregnancytracker,False
+6.333333333333333,5.4492607,-3.3068147,Top quartile,816,58800,Music & Audio,com.spreaker.android.studio,False
+6.333333333333333,4.2165165,-1.3226404,Top quartile,817,58804,Music & Audio,com.spreaker.android.studio,False
+5.333333333333333,2.2285,0.22179043,Bottom quartile,818,58811,Shopping,com.row52.app,False
+5.666666666666667,-6.6712914,-7.710764,Middle 50%,819,58952,Music & Audio,media.music.musicplayer,False
+6.666666666666667,-1.8194335,5.0969343,Top quartile,820,59009,Food & Drink,com.cookware.souprecipes,False
+4.666666666666667,1.8146946,4.244488,Bottom quartile,821,59248,News & Magazines,com.mylocaltv.knxv,False
+5.666666666666667,-7.6921253,6.967993,Middle 50%,822,59294,Books & Reference,com.carrotapps.battledeck,True
+5.666666666666667,5.045592,-1.9259448,Middle 50%,823,59324,Finance,com.i2c.mcp.achievecard,False
+6.333333333333333,-4.469839,-0.6357171,Top quartile,824,59382,Health & Fitness,com.eightbitdreams.boxingintervaltimer,False
+6.333333333333333,-7.5027447,-4.833735,Top quartile,825,59383,Health & Fitness,com.eightbitdreams.boxingintervaltimer,False
+5.5,-0.88831824,-2.91553,Middle 50%,826,59391,Video Players & Editors,com.smartapps.videodownloaderforfacebookpro.free.android.fb,False
+6.0,0.93328005,3.1728458,Middle 50%,827,59399,Medical,com.gmycinstudio.pharmquiz,False
+5.666666666666667,4.9088125,-2.3158948,Middle 50%,828,59409,Shopping,com.ScanLife,False
+5.666666666666667,4.448325,0.7383438,Middle 50%,829,59457,Communication,org.myklos.btautoconnect,False
+5.666666666666667,-7.3920536,-4.737176,Middle 50%,830,59465,Maps & Navigation,com.sygic.aura,False
+5.333333333333333,3.8461156,-2.6207342,Bottom quartile,831,59493,Health & Fitness,com.medisafe.android.client,False
+6.333333333333333,-5.8847165,-7.0072618,Top quartile,832,59507,Entertainment,com.battlelancer.seriesguide,False
+6.333333333333333,4.542469,0.21705161,Top quartile,833,59720,Parenting,com.safekiddo.kid,False
+6.666666666666667,4.3740005,-0.9076552,Top quartile,834,59840,Shopping,com.wholefoods.wholefoodsmarket,False
+5.0,-1.9857546,4.8312693,Bottom quartile,835,59895,Sports,binaryearth.handygpsfree,False
+5.333333333333333,4.815668,1.8294871,Bottom quartile,836,60086,Medical,com.smsrobot.period,False
+7.0,3.340003,-1.4524924,Top quartile,837,60201,Travel & Local,org.paoloconte.treni_lite,False
+5.666666666666667,-6.837531,-2.5607257,Middle 50%,838,60396,Travel & Local,com.adventureprojects.nationalparks,False
+5.333333333333333,-1.3068937,3.4597263,Bottom quartile,839,60650,Books & Reference,com.appsfriendly.nivbiblefreeofflinebible,True
+6.666666666666667,-7.1821475,-1.7858297,Top quartile,840,60686,Shopping,com.mrvoonik.android,False
+5.666666666666667,-2.4311137,2.3156457,Middle 50%,841,60770,Social,com.starstable.friends,False
+6.0,3.4685402,-2.015133,Middle 50%,842,60793,Communication,update.whatsapp.actualizar.whatsapp.news,False
+5.333333333333333,3.6661098,4.8099775,Bottom quartile,843,60844,Food & Drink,com.waitrapp,False
+5.666666666666667,4.3929896,-2.8061888,Middle 50%,844,60878,Auto & Vehicles,com.autoportal.india,False
+6.0,-0.6799793,6.59726,Middle 50%,845,61302,Travel & Local,com.booking,False
+5.666666666666667,4.2438345,0.08002077,Middle 50%,846,61314,Books & Reference,com.hamropatro.dictionary,True
+6.0,5.2240953,-2.7805886,Middle 50%,847,61754,Lifestyle,com.times.alive.iar,False
+6.666666666666667,4.0521874,0.0044038408,Top quartile,848,61875,News & Magazines,com.nytimes.android,False
+6.0,3.5752487,-2.3838186,Middle 50%,849,61904,Education,com.fusionprojects.edmodo,True
+5.333333333333333,-6.777467,1.974967,Bottom quartile,850,61907,Education,com.fusionprojects.edmodo,True
+6.0,-2.386455,-0.58964765,Middle 50%,851,62000,Education,net.tandem,True
+5.666666666666667,3.6661396,4.709352,Middle 50%,852,62026,Communication,com.eymenn.mail,False
+6.0,2.413633,3.0329642,Middle 50%,853,62166,Communication,com.heyemoji.onemms,False
+5.666666666666667,5.3828526,-3.1417708,Middle 50%,854,62175,Communication,com.jiochat.jiochatapp,False
+5.666666666666667,-8.294554,-7.4221087,Middle 50%,855,62199,Music & Audio,com.kodarkooperativet.blackplayerfree,False
+6.0,3.109563,-1.1663755,Middle 50%,856,62249,News & Magazines,com.linkedin.pulse,False
+7.0,-5.296573,-5.5572257,Top quartile,857,62268,Sports,com.sportsinsights,False
+6.0,-6.4739056,-2.0324433,Middle 50%,858,62286,Entertainment,com.lol.lol_platform2,False
+6.666666666666667,-3.150919,1.6980686,Top quartile,859,62335,Shopping,com.zalora.android,False
+5.666666666666667,4.603142,-1.6060574,Middle 50%,860,62449,Social,com.meetme.android.activities,False
+5.333333333333333,-5.610752,3.971984,Bottom quartile,861,62465,Communication,com.datingnode.gayxchange,False
+6.0,4.505297,-1.364717,Middle 50%,862,62494,Education,com.zetty.zettygmp,True
+6.666666666666667,-7.057392,-2.0104036,Top quartile,863,62580,Communication,com.antivirus,False
+6.333333333333333,-5.5168085,-2.7977169,Top quartile,864,62693,Communication,com.xda.labs.play,False
+5.666666666666667,0.7264831,2.0090218,Middle 50%,865,62730,Weather,com.youngmedia.wbay,False
+6.0,4.163451,-2.4192586,Middle 50%,866,62745,Business,com.facebook.adsmanager,False
+7.0,-5.7311754,-7.9916024,Top quartile,867,62782,Weather,org.blitzortung.android.app,False
+5.333333333333333,-1.2441635,0.29405385,Bottom quartile,868,62797,Sports,com.hardgrnd.lineup11,False
+5.666666666666667,4.8890753,-1.9085271,Middle 50%,869,62872,Lifestyle,com.life360.android.safetymapd,False
+7.666666666666667,-9.22916,-1.3140038,Top quartile,870,62914,Shopping,com.supervalu.android.shoppers,False
+6.0,-7.1872897,-0.020602632,Middle 50%,871,62919,Shopping,com.supervalu.android.shoppers,False
+5.0,5.3071404,-1.1819296,Bottom quartile,872,62949,Maps & Navigation,com.dixonmobility.android.sanfran,False
+5.333333333333333,-0.055604674,1.7542855,Bottom quartile,873,63093,Food & Drink,com.ubercab.eats,False
+6.0,3.548347,-0.6996416,Middle 50%,874,63134,Weather,com.wesh.android.weather,False
+6.0,3.9540749,-0.086884186,Middle 50%,875,63242,Travel & Local,com.railyatri.in.mobile,False
+6.0,2.8346992,-2.820075,Middle 50%,876,63249,House & Home,com.jameshe.UCam247Live,False
+5.666666666666667,-10.960724,-0.8552175,Middle 50%,877,63397,Music & Audio,hundred.five.easybassbooster,False
+5.666666666666667,-6.6913443,-4.9696894,Middle 50%,878,63468,Video Players & Editors,com.new.video.download.free.godagain,False
+6.0,3.6452045,-3.0609088,Middle 50%,879,63515,Education,com.gabrielittner.timetable,True
+4.666666666666667,4.9762125,-2.049933,Bottom quartile,880,63548,Social,com.tellm.android.app,False
+5.333333333333333,-5.0511146,5.9969897,Bottom quartile,881,63573,Business,com.indiamart.m,False
+5.666666666666667,1.9842211,0.19580151,Middle 50%,882,63584,Shopping,com.nearmeoffers,False
+6.333333333333333,4.943352,-2.2912917,Top quartile,883,63642,Health & Fitness,com.higi.main,False
+6.0,1.3906388,1.839703,Middle 50%,884,63789,Shopping,com.target.ui,False
+6.333333333333333,-1.887599,6.665734,Top quartile,885,63844,News & Magazines,com.doapps.android.mln.MLN_02c81d50e7a767c8153677647dbfd406,False
+6.333333333333333,3.4207292,0.015382972,Top quartile,886,63886,Shopping,com.whaleshark.retailmenot,False
+6.0,-6.1792364,-2.5683703,Middle 50%,887,63936,Finance,org.fxclub.libertex,False
+6.0,-6.5906143,7.0606623,Middle 50%,888,63983,Health & Fitness,com.planetfitness,False
+5.666666666666667,3.6938221,-2.6690426,Middle 50%,889,64029,Video Players & Editors,org.videolan.vlc,False
+6.333333333333333,2.2993808,-1.770071,Top quartile,890,64036,Video Players & Editors,org.videolan.vlc,False
+6.333333333333333,-3.059361,-4.8063374,Top quartile,891,64091,Entertainment,com.imdb.mobile,False
+6.0,0.91458285,-1.6921281,Middle 50%,892,64225,Weather,com.wmur.android.weather,False
+5.0,5.618354,-2.8599584,Bottom quartile,893,64258,Entertainment,com.gamestop.powerup,False
+6.0,2.062975,1.2731119,Middle 50%,894,64526,Books & Reference,com.azwstudios.theholybible.kjv,True
+6.666666666666667,1.9574584,1.5894997,Top quartile,895,64530,Books & Reference,com.azwstudios.theholybible.kjv,True
+5.666666666666667,3.8218453,-0.33924615,Middle 50%,896,64603,Medical,com.rexton.bxsmartremote,False
+6.333333333333333,4.5216236,3.5403345,Top quartile,897,64604,Medical,com.rexton.bxsmartremote,False
+5.333333333333333,-4.4257574,-4.011677,Bottom quartile,898,64626,Auto & Vehicles,kb2.soft.fuelmanager,False
+5.0,4.5089245,-2.7606254,Bottom quartile,899,64676,Social,com.google.android.apps.blogger,False
+6.666666666666667,-1.1103476,-1.0492842,Top quartile,900,64677,Lifestyle,com.yalantis.myday,False
+5.333333333333333,5.1670337,-2.5018196,Bottom quartile,901,64711,News & Magazines,com.mylocaltv.wxyz,False
+5.333333333333333,-6.063319,-8.298022,Bottom quartile,902,64788,Entertainment,com.uc.vmate,False
+6.0,3.92654,2.0892506,Middle 50%,903,64853,Communication,org.adblockplus.browser,False
+6.0,-10.14889,-1.2795928,Middle 50%,904,64886,Entertainment,com.ksmobile.launcher.theme.t103557168,False
+6.666666666666667,3.1496842,1.7359468,Top quartile,905,64934,Finance,com.handyapps.expenseiq,False
+6.0,4.954269,-2.7199306,Middle 50%,906,65030,Entertainment,com.appkarma.app,False
+6.0,0.5780288,2.4552603,Middle 50%,907,65045,Video Players & Editors,com.mobzapp.recme.free,False
+5.0,2.704854,4.9490795,Bottom quartile,908,65108,Shopping,com.aircrunch.shopalerts,False
+5.666666666666667,-6.1733036,0.24950199,Middle 50%,909,65128,Sports,com.brucemax.boxintervals,False
+5.333333333333333,-8.035329,-1.9460144,Bottom quartile,910,65198,House & Home,com.fairfax.domain,False
+6.666666666666667,-7.004595,2.9617083,Top quartile,911,65255,Health & Fitness,com.sharecare.droz,False
+6.0,5.6404133,-2.7824686,Middle 50%,912,65309,Lifestyle,com.linecorp.linewru,False
+6.0,-11.946943,2.254721,Middle 50%,913,65444,News & Magazines,com.tribtv.wxin3,False
+5.333333333333333,3.750767,-0.652966,Bottom quartile,914,65481,Social,com.comsocialcom.socialmedia,False
+5.0,-11.781664,-1.858644,Bottom quartile,915,65691,Weather,com.wsaz.android.weather,False
+6.333333333333333,2.5963197,0.23904149,Top quartile,916,65716,Maps & Navigation,com.italia.autovelox.autoveloxfissiemoibli,False
+6.333333333333333,1.0546564,3.1260786,Top quartile,917,65773,Travel & Local,com.roadtrippers,False
+5.666666666666667,3.3057954,-2.0681999,Middle 50%,918,65806,Communication,com.maaii.maaii,False
+6.0,-7.2352715,-6.400302,Middle 50%,919,65990,Music & Audio,com.music.choice,False
+5.0,0.052152418,0.4955046,Bottom quartile,920,65997,Lifestyle,com.mobikwik_new,False
+6.0,-3.3762898,3.5784812,Middle 50%,921,66205,Entertainment,com.ifreeindia.sms_mazaa,False
+6.5,-10.161894,2.6640973,Top quartile,922,66230,Beauty,com.launcher.gold.rose.business,False
+5.0,-0.5685402,5.6321516,Bottom quartile,923,66266,Social,com.replayit,False
+5.666666666666667,4.4506464,-0.5791193,Middle 50%,924,66338,Shopping,com.ebates,False
+6.0,0.39676034,4.170123,Middle 50%,925,66383,Social,com.liquable.nemo,False
+6.0,2.0080996,5.111849,Middle 50%,926,66429,Lifestyle,com.brinker.chilis,False
+6.333333333333333,1.5535648,-2.2682903,Top quartile,927,66433,Education,com.dwabtech.vexvia,True
+6.333333333333333,4.3771896,0.2449262,Top quartile,928,66602,Finance,gov.irs,False
+5.666666666666667,0.15138103,3.8055162,Middle 50%,929,66639,Shopping,com.woot.android.main,False
+6.0,-1.1979623,5.746537,Middle 50%,930,66963,Shopping,com.modanisa,False
+6.0,3.4527283,0.828531,Middle 50%,931,67029,Business,com.jobsdb,False
+5.666666666666667,1.6259315,5.889638,Middle 50%,932,67071,Business,com.hirevue.candidate.generic,False
+6.0,3.9420462,-0.95632786,Middle 50%,933,67109,Travel & Local,com.yatra.base,False
+5.333333333333333,-0.7682315,2.7480698,Bottom quartile,934,67266,Social,app.fastfacebook.com,False
+5.666666666666667,-0.5783253,6.822428,Middle 50%,935,67323,Entertainment,com.kauf.sticker.funfacechangerphotostudio,False
+5.666666666666667,2.3569028,2.9833667,Middle 50%,936,67407,Finance,com.expensemanager,False
+6.666666666666667,-13.188236,3.9092357,Top quartile,937,67413,Entertainment,com.examobile.valentinelovecalculator,False
+6.0,1.2398059,4.2878084,Middle 50%,938,67512,Entertainment,musicadelos607080902000.exitosradiogratis,False
+5.333333333333333,0.89157885,-0.7118878,Bottom quartile,939,67725,Lifestyle,com.punchh.schlotzskys,False
+5.0,4.5740223,-2.1053603,Bottom quartile,940,67890,Health & Fitness,com.noom.walk,False
+5.666666666666667,-5.841771,-2.4171896,Middle 50%,941,67904,Sports,com.twothumbz.gamedayallinonefree,False
+5.333333333333333,2.9225597,4.054966,Bottom quartile,942,67986,News & Magazines,com.aol.mobile.aolapp,False
+5.333333333333333,2.119525,-0.4241236,Bottom quartile,943,68033,House & Home,com.trulia.android,False
+5.666666666666667,2.5200238,-0.6714392,Middle 50%,944,68047,Shopping,com.trixiesoft.clapp,False
+6.333333333333333,4.9315543,-2.0881367,Top quartile,945,68163,Shopping,at.bluesource.mobilepocket,False
+5.5,-3.2941675,-1.4702983,Middle 50%,946,68278,News & Magazines,anews.com,False
+5.666666666666667,-7.696661,-0.3527826,Middle 50%,947,68589,Entertainment,com.wwe.universe,False
+6.333333333333333,3.4957407,7.52864,Top quartile,948,68681,Parenting,com.tinystep.app,False
+6.0,3.6341822,-1.1048312,Middle 50%,949,68689,Social,com.taggedapp,False
+7.0,0.7710597,-3.349272,Top quartile,950,68830,Medical,com.cg.android.pregnancytracker,False
+6.333333333333333,1.726365,5.5622787,Top quartile,951,68912,Music & Audio,com.musicnetwork.cristianafm,False
+5.333333333333333,3.8566313,-2.2014937,Bottom quartile,952,68918,Music & Audio,com.musicnetwork.cristianafm,False
+5.333333333333333,2.0931056,1.994846,Bottom quartile,953,69011,Education,com.vivitylabs.android.braintrainer,True
+5.0,-2.0787318,-6.0612445,Bottom quartile,954,69109,Video Players & Editors,com.xcs.videolocker,False
+5.333333333333333,2.6121678,-0.903755,Bottom quartile,955,69119,Video Players & Editors,com.xcs.videolocker,False
+6.0,3.5428846,2.2617354,Middle 50%,956,69125,Sports,com.mobilefootie.wc2010,False
+6.333333333333333,1.4238579,2.22637,Top quartile,957,69255,Shopping,com.etsy.android,False
+6.333333333333333,3.5829933,0.83155257,Top quartile,958,69266,Shopping,com.etsy.android,False
+5.0,-4.935223,2.174955,Bottom quartile,959,69350,Parenting,com.everbum.lnl,False
+6.333333333333333,-0.48038712,3.6333776,Top quartile,960,69463,Travel & Local,aero.sita.lab.resmobileweb.android.mh,False
+5.0,-4.0310354,5.7026634,Bottom quartile,961,69510,Social,net.mylol,False
+6.333333333333333,-3.5530963,-2.297798,Top quartile,962,69556,Business,com.oneq.askvert,False
+5.333333333333333,3.6065314,-0.9808624,Bottom quartile,963,69899,Health & Fitness,com.sleekbit.ovuview,False
+6.0,0.6846962,1.6968989,Middle 50%,964,69946,Food & Drink,com.buyvia.blackfridayandroid,False
+6.0,2.56663,-1.6326743,Middle 50%,965,69964,Books & Reference,com.admobapp.carsmodforminecraftpe,True
+7.0,-0.7762112,5.7929897,Top quartile,966,69965,Books & Reference,com.admobapp.carsmodforminecraftpe,True
+6.333333333333333,-5.479803,-3.013712,Top quartile,967,69984,Weather,com.wave.android.weather,False
+6.333333333333333,4.339713,0.60838723,Top quartile,968,70071,Communication,com.bbm,False
+6.0,-5.1484976,1.4475241,Middle 50%,969,70146,Health & Fitness,com.fatsecret.android,False
+6.0,2.2373564,0.46262148,Middle 50%,970,70149,Health & Fitness,com.fatsecret.android,False
+4.333333333333333,2.1740665,0.960506,Bottom quartile,971,70172,Social,net.lovoo.android,False
+7.0,2.0867383,-1.4501033,Top quartile,972,70327,Food & Drink,com.internationalrecipes.italianrecipes,False
+5.666666666666667,-6.336364,6.8651567,Middle 50%,973,70359,Comics,co.visionbooks.reader,True
+6.0,2.0392084,-1.8851821,Middle 50%,974,70411,Business,com.xlabz.LogoMaker,False
+6.333333333333333,2.1349125,-0.6142979,Top quartile,975,70467,Education,com.virblue.mystudylife,True
+5.666666666666667,3.445301,1.6958658,Middle 50%,976,70527,Maps & Navigation,com.whereismytrainnyc.whereismytrain,False
+5.666666666666667,1.9721451,2.7731853,Middle 50%,977,70617,Sports,com.beyondsoftware.teamstuff,False
+5.0,4.5118704,-4.778223,Bottom quartile,978,70728,Business,com.bayt,False
+6.666666666666667,4.8607073,-1.4847082,Top quartile,979,70793,Entertainment,com.sbardyuk.dogphotos,False
+6.0,-0.9382361,1.1014683,Middle 50%,980,70813,Travel & Local,com.skiracer.nautical_astore_lite,False
+5.333333333333333,-2.0804012,-1.4085836,Bottom quartile,981,70857,Business,com.maverik.rewards,False
+5.0,3.4730878,-1.9356664,Bottom quartile,982,70901,Medical,au.org.nps.medicinelistplus,False
+7.0,3.5259528,-2.155158,Top quartile,983,70903,Medical,au.org.nps.medicinelistplus,False
+5.666666666666667,4.55709,-0.6113064,Middle 50%,984,70927,Finance,com.ifs.banking.fiid1608,False
+5.666666666666667,-7.7645774,4.7750816,Middle 50%,985,70998,Entertainment,cclk.studio.hatkaraoke,False
+6.0,5.3559604,-2.8205013,Middle 50%,986,71244,Travel & Local,com.telenav.app.android.scout_us,False
+5.666666666666667,-8.509996,-10.086891,Middle 50%,987,71304,Entertainment,com.stuckpixelinc.funnypics,False
+6.666666666666667,-4.77892,-5.2273893,Top quartile,988,71337,Finance,de.elfsoft.bestbrokers,False
+5.666666666666667,4.91226,-1.8206217,Middle 50%,989,71416,Health & Fitness,com.surfcityapps.loseweight,False
+5.666666666666667,3.8595738,0.7556315,Middle 50%,990,71456,Sports,holoduke.soccer_gen,False
+6.333333333333333,-2.3817523,7.2747917,Top quartile,991,71602,Sports,com.yinzcam.nfl.eagles,False
+6.333333333333333,2.523219,3.5625205,Top quartile,992,71640,Lifestyle,com.sympoz.craftsy.main,False
+5.333333333333333,-2.2584407,4.3395395,Bottom quartile,993,71652,Auto & Vehicles,com.oneatomdev.drivecamrecorder,False
+6.0,5.841379,-2.439765,Middle 50%,994,71733,Sports,com.neulion.android.collegesports.goduke2012.free,False
+5.0,4.845428,-2.173098,Bottom quartile,995,71737,Sports,com.neulion.android.collegesports.goduke2012.free,False
+4.0,-6.568332,5.0544815,Bottom quartile,996,71747,Medical,com.medicaljoyworks.prognosis.psychiatry,False
+6.333333333333333,3.5751736,1.9672964,Top quartile,997,72017,Dating,com.Adanel.QC,False
+6.0,4.8177137,1.1359147,Middle 50%,998,72147,Health & Fitness,com.humana.vitality.app,False
+6.0,4.323156,0.85514826,Middle 50%,999,72194,Travel & Local,com.yellowbook.android2,False

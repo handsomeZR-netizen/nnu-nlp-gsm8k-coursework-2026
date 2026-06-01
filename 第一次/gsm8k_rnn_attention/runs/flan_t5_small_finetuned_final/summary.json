@@ -1,0 +1,17 @@
+{
+  "run_name": "flan_t5_small_finetuned_final",
+  "model_name": "google/flan-t5-small",
+  "best_dev_strict_acc": 0.0,
+  "dev_metrics": {
+    "num_samples": 748,
+    "strict_final_answer_acc": 0.0,
+    "fallback_final_answer_acc": 0.014705882352941176,
+    "format_rate": 0.0
+  },
+  "test_metrics": {
+    "num_samples": 1319,
+    "strict_final_answer_acc": 0.0,
+    "fallback_final_answer_acc": 0.02047005307050796,
+    "format_rate": 0.0
+  }
+}

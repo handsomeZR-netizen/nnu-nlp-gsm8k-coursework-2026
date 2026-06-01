@@ -1,0 +1,19 @@
+{
+  "pca_explained_variance_ratio": [
+    0.3472231924533844,
+    0.16282936930656433
+  ],
+  "top_bottom_silhouette_visual_handcrafted": 0.003635870758444071,
+  "quality_quantile_25": 5.333333333333333,
+  "quality_quantile_75": 6.333333333333333,
+  "top_correlation_features": [
+    "grid_edge_0_3",
+    "grid_edge_1_1",
+    "colorfulness",
+    "horizontal_symmetry_error",
+    "grid_edge_0_0",
+    "vertical_symmetry_error",
+    "grid_edge_0_2",
+    "grid_edge_0_1"
+  ]
+}

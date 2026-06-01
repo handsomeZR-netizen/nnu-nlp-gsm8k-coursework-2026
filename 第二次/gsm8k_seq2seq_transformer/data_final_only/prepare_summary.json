@@ -1,0 +1,11 @@
+{
+  "dataset": "openai/gsm8k",
+  "config": "socratic",
+  "target_mode": "final_only",
+  "splits": {
+    "train": 6725,
+    "dev": 748,
+    "test": 1319
+  },
+  "vocab_size": 10799
+}

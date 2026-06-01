@@ -1,0 +1,7 @@
+block,n_features
+layout64,64
+clip512,512
+visual_handcrafted,73
+layout64_visual_handcrafted,137
+visual_hand_advanced,167
+clip512_visual_hand_advanced,679

@@ -1,0 +1,43 @@
+run_name: transformer_socratic_4060
+seed: 42
+
+paths:
+  data_dir: data
+  run_root: runs
+
+dataset:
+  name: openai/gsm8k
+  config: socratic
+  dev_ratio: 0.1
+  target_mode: full
+
+tokenizer:
+  lowercase: true
+  min_freq: 1
+  max_src_len: 220
+  max_tgt_len: 384
+
+model:
+  d_model: 256
+  nhead: 8
+  encoder_layers: 3
+  decoder_layers: 3
+  dim_feedforward: 1024
+  dropout: 0.2
+  max_position: 512
+
+training:
+  batch_size: 8
+  grad_accum_steps: 4
+  epochs: 4
+  optimizer: adamw
+  lr: 0.0005
+  weight_decay: 0.0001
+  grad_clip: 1.0
+  amp: true
+  early_stop_patience: 3
+  decode_batch_size: 12
+
+decoding:
+  method: greedy
+  max_len: 256

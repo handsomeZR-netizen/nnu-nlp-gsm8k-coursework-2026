@@ -1,0 +1,20 @@
+[
+  {
+    "model": "RNN_full",
+    "num_samples": 100,
+    "avg_score_0_to_2": 0.0,
+    "llm_reasoning_validity": 0.0,
+    "score_2_rate": 0.0,
+    "score_1_rate": 0.0,
+    "score_0_rate": 1.0
+  },
+  {
+    "model": "Transformer_full",
+    "num_samples": 100,
+    "avg_score_0_to_2": 0.0,
+    "llm_reasoning_validity": 0.0,
+    "score_2_rate": 0.0,
+    "score_1_rate": 0.0,
+    "score_0_rate": 1.0
+  }
+]

@@ -1,0 +1,11 @@
+{
+  "dataset": "openai/gsm8k",
+  "config": "main",
+  "target_mode": "full",
+  "splits": {
+    "train": 6725,
+    "dev": 748,
+    "test": 1319
+  },
+  "vocab_size": 11324
+}

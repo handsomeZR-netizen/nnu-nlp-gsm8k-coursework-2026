@@ -1,0 +1,32 @@
+{
+  "num_samples": 1319,
+  "strict_final_answer_acc": 0.04169825625473844,
+  "fallback_final_answer_acc": 0.04169825625473844,
+  "format_rate": 1.0,
+  "priority": [
+    {
+      "model": "Pretrained_T5_final",
+      "strict_acc": 0.04679144385026738,
+      "fallback_acc": 0.04679144385026738,
+      "format_rate": 1.0
+    },
+    {
+      "model": "RNN_final_opt_beam5",
+      "strict_acc": 0.034759358288770054,
+      "fallback_acc": 0.034759358288770054,
+      "format_rate": 1.0
+    },
+    {
+      "model": "Transformer_final_v2",
+      "strict_acc": 0.02540106951871658,
+      "fallback_acc": 0.02540106951871658,
+      "format_rate": 1.0
+    },
+    {
+      "model": "Transformer_final_opt",
+      "strict_acc": 0.0213903743315508,
+      "fallback_acc": 0.0213903743315508,
+      "format_rate": 1.0
+    }
+  ]
+}

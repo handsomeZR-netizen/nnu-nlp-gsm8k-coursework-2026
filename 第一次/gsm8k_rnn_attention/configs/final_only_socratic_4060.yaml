@@ -1,0 +1,51 @@
+run_name: final_only_socratic_4060
+seed: 42
+
+paths:
+  data_dir: data_final_only
+  run_root: runs
+
+dataset:
+  name: openai/gsm8k
+  config: socratic
+  dev_ratio: 0.1
+  target_mode: final_only
+
+tokenizer:
+  lowercase: true
+  min_freq: 1
+  max_src_len: 220
+  max_tgt_len: 32
+
+model:
+  embedding_dim: 256
+  encoder_hidden: 256
+  decoder_hidden: 512
+  encoder_layers: 2
+  decoder_layers: 2
+  bidirectional: true
+  attention: bahdanau
+  dropout: 0.3
+
+training:
+  batch_size: 64
+  grad_accum_steps: 1
+  epochs: 6
+  optimizer: adamw
+  lr: 0.001
+  weight_decay: 0.0001
+  grad_clip: 1.0
+  teacher_forcing_start: 1.0
+  teacher_forcing_end: 0.5
+  amp: true
+  early_stop_patience: 3
+  num_workers: 0
+  eval_every: 1
+  max_grad_norm: 1.0
+
+decoding:
+  method: greedy
+  beam_size: 1
+  max_len: 32
+  length_penalty: 0.7
+

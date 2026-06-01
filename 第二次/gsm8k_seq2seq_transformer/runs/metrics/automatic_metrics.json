@@ -1,0 +1,38 @@
+[
+  {
+    "model": "RNN_full",
+    "num_samples": 1319,
+    "bleu4": 0.129968,
+    "rouge_l": 0.389191,
+    "strict_final_answer_acc": 0.025019,
+    "fallback_final_answer_acc": 0.025777,
+    "format_rate": 0.903715
+  },
+  {
+    "model": "Transformer_full",
+    "num_samples": 1319,
+    "bleu4": 0.053301,
+    "rouge_l": 0.193792,
+    "strict_final_answer_acc": 0.004549,
+    "fallback_final_answer_acc": 0.006823,
+    "format_rate": 0.245641
+  },
+  {
+    "model": "RNN_final_only",
+    "num_samples": 1319,
+    "bleu4": 0.0,
+    "rouge_l": 0.047052,
+    "strict_final_answer_acc": 0.028052,
+    "fallback_final_answer_acc": 0.028052,
+    "format_rate": 1.0
+  },
+  {
+    "model": "Transformer_final_only",
+    "num_samples": 1319,
+    "bleu4": 0.0,
+    "rouge_l": 0.021786,
+    "strict_final_answer_acc": 0.031842,
+    "fallback_final_answer_acc": 0.031842,
+    "format_rate": 1.0
+  }
+]

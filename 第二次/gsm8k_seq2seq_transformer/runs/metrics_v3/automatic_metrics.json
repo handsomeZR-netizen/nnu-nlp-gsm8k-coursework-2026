@@ -1,0 +1,110 @@
+[
+  {
+    "model": "RNN_full",
+    "num_samples": 1319,
+    "bleu4": 0.129968,
+    "rouge_l": 0.389191,
+    "strict_final_answer_acc": 0.025019,
+    "fallback_final_answer_acc": 0.025777,
+    "format_rate": 0.903715,
+    "equation_coverage": 0.939348,
+    "equation_step_acc": 0.074517,
+    "equation_all_correct_rate": 0.020178
+  },
+  {
+    "model": "Transformer_full",
+    "num_samples": 1319,
+    "bleu4": 0.053301,
+    "rouge_l": 0.193792,
+    "strict_final_answer_acc": 0.004549,
+    "fallback_final_answer_acc": 0.006823,
+    "format_rate": 0.245641,
+    "equation_coverage": 0.415466,
+    "equation_step_acc": 0.034143,
+    "equation_all_correct_rate": 0.007299
+  },
+  {
+    "model": "RNN_final_only",
+    "num_samples": 1319,
+    "bleu4": 0.0,
+    "rouge_l": 0.047052,
+    "strict_final_answer_acc": 0.028052,
+    "fallback_final_answer_acc": 0.028052,
+    "format_rate": 1.0,
+    "equation_coverage": 0.0,
+    "equation_step_acc": 0.0,
+    "equation_all_correct_rate": 0.0
+  },
+  {
+    "model": "RNN_final_opt_beam5",
+    "num_samples": 1319,
+    "bleu4": 0.0,
+    "rouge_l": 0.026181,
+    "strict_final_answer_acc": 0.025777,
+    "fallback_final_answer_acc": 0.025777,
+    "format_rate": 1.0,
+    "equation_coverage": 0.0,
+    "equation_step_acc": 0.0,
+    "equation_all_correct_rate": 0.0
+  },
+  {
+    "model": "Transformer_final_only",
+    "num_samples": 1319,
+    "bleu4": 0.0,
+    "rouge_l": 0.021786,
+    "strict_final_answer_acc": 0.031842,
+    "fallback_final_answer_acc": 0.031842,
+    "format_rate": 1.0,
+    "equation_coverage": 0.0,
+    "equation_step_acc": 0.0,
+    "equation_all_correct_rate": 0.0
+  },
+  {
+    "model": "Transformer_final_opt",
+    "num_samples": 1319,
+    "bleu4": 0.0,
+    "rouge_l": 0.037787,
+    "strict_final_answer_acc": 0.034875,
+    "fallback_final_answer_acc": 0.034875,
+    "format_rate": 1.0,
+    "equation_coverage": 0.0,
+    "equation_step_acc": 0.0,
+    "equation_all_correct_rate": 0.0
+  },
+  {
+    "model": "Transformer_final_v2",
+    "num_samples": 1319,
+    "bleu4": 0.0,
+    "rouge_l": 0.029195,
+    "strict_final_answer_acc": 0.031842,
+    "fallback_final_answer_acc": 0.031842,
+    "format_rate": 1.0,
+    "equation_coverage": 0.0,
+    "equation_step_acc": 0.0,
+    "equation_all_correct_rate": 0.0
+  },
+  {
+    "model": "Pretrained_T5_final",
+    "num_samples": 1319,
+    "bleu4": 0.0,
+    "rouge_l": 0.028251,
+    "strict_final_answer_acc": 0.041698,
+    "fallback_final_answer_acc": 0.041698,
+    "format_rate": 1.0,
+    "equation_coverage": 0.0,
+    "equation_step_acc": 0.0,
+    "equation_all_correct_rate": 0.0
+  },
+  {
+    "model": "Dev_tuned_ensemble",
+    "num_samples": 1319,
+    "bleu4": 0.0,
+    "rouge_l": 0.028251,
+    "strict_final_answer_acc": 0.041698,
+    "fallback_final_answer_acc": 0.041698,
+    "format_rate": 1.0,
+    "equation_coverage": 0.0,
+    "equation_step_acc": 0.0,
+    "equation_all_correct_rate": 0.0
+  }
+]

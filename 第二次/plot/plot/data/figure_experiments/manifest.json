@@ -1,0 +1,18 @@
+{
+  "seed": 23,
+  "folds": 5,
+  "n_rows": 1000,
+  "outputs": [
+    "correlation_panel_data.csv",
+    "diagnostic_summary.json",
+    "feature_signal_summary.csv",
+    "figure_experiment_blocks.csv",
+    "oof_regression_metrics.csv",
+    "oof_regression_predictions.csv",
+    "pca_tier_coordinates.csv",
+    "proxy_transfer_metrics.csv",
+    "proxy_transfer_predictions.csv",
+    "tier_diagnostic_metrics.csv",
+    "tier_diagnostic_predictions.csv"
+  ]
+}
