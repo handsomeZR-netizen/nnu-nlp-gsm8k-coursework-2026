@@ -1,0 +1,47 @@
+[
+  {
+    "model": "DeepSeek_v4_flash",
+    "num_samples": 100,
+    "avg_score_0_to_2": 1.92,
+    "llm_reasoning_validity": 0.96,
+    "score_2_rate": 0.94,
+    "score_1_rate": 0.04,
+    "score_0_rate": 0.02
+  },
+  {
+    "model": "DeepSeek_v4_pro",
+    "num_samples": 100,
+    "avg_score_0_to_2": 1.93,
+    "llm_reasoning_validity": 0.965,
+    "score_2_rate": 0.95,
+    "score_1_rate": 0.03,
+    "score_0_rate": 0.02
+  },
+  {
+    "model": "Local_Qwen25_Math_15B_CoT",
+    "num_samples": 100,
+    "avg_score_0_to_2": 1.72,
+    "llm_reasoning_validity": 0.86,
+    "score_2_rate": 0.77,
+    "score_1_rate": 0.18,
+    "score_0_rate": 0.05
+  },
+  {
+    "model": "RNN_full",
+    "num_samples": 100,
+    "avg_score_0_to_2": 0.03,
+    "llm_reasoning_validity": 0.015,
+    "score_2_rate": 0.0,
+    "score_1_rate": 0.03,
+    "score_0_rate": 0.97
+  },
+  {
+    "model": "Transformer_full",
+    "num_samples": 100,
+    "avg_score_0_to_2": 0.0,
+    "llm_reasoning_validity": 0.0,
+    "score_2_rate": 0.0,
+    "score_1_rate": 0.0,
+    "score_0_rate": 1.0
+  }
+]

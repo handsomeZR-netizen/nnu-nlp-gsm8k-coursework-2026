@@ -1,0 +1,6 @@
+model,error_type,count,ratio
+qwen25_math_15b,format_missing_but_fallback_correct,7,0.005307
+qwen25_math_15b,missing_final_marker,54,0.04094
+qwen25_math_15b,wrong_final_no_equation,204,0.154663
+deepseek_v4_flash,wrong_final_no_equation,71,0.053829
+deepseek_v4_pro,wrong_final_no_equation,66,0.050038

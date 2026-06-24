@@ -1,0 +1,13 @@
+{
+  "num_samples": 1319,
+  "flash_correct": 1248,
+  "flash_acc": 0.9461713419257013,
+  "pro_correct": 1253,
+  "pro_acc": 0.9499620924943138,
+  "acc_diff_pro_minus_flash": 0.0037907505686125853,
+  "both_right": 1226,
+  "both_wrong": 44,
+  "pro_only_correct": 27,
+  "flash_only_correct": 22,
+  "mcnemar_exact_p": 0.5681724128491652
+}

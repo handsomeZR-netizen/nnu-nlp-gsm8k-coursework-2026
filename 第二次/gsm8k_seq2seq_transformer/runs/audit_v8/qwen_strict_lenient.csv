@@ -1,0 +1,2 @@
+model,num_samples,strict_correct,strict_acc,strict_ci_low,strict_ci_high,lenient_correct,lenient_acc,lenient_ci_low,lenient_ci_high,fallback_only_correct,format_ok,format_rate,missing_final_marker,format_normalized_count
+Local_Qwen25_Math_15B_CoT,1319,1047,0.7937831690674754,0.771110377316001,0.8147496379722995,1054,0.799090219863533,0.776611799918406,0.8198314930654252,7,1258,0.9537528430629265,61,1258

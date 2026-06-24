@@ -1,0 +1,94 @@
+{
+  "qwen_strict_lenient": {
+    "model": "Local_Qwen25_Math_15B_CoT",
+    "num_samples": 1319,
+    "strict_correct": 1047,
+    "strict_acc": 0.7937831690674754,
+    "strict_ci_low": 0.771110377316001,
+    "strict_ci_high": 0.8147496379722995,
+    "lenient_correct": 1054,
+    "lenient_acc": 0.799090219863533,
+    "lenient_ci_low": 0.776611799918406,
+    "lenient_ci_high": 0.8198314930654252,
+    "fallback_only_correct": 7,
+    "format_ok": 1258,
+    "format_rate": 0.9537528430629265,
+    "missing_final_marker": 61,
+    "format_normalized_count": 1258
+  },
+  "deepseek_mcnemar": {
+    "num_samples": 1319,
+    "flash_correct": 1248,
+    "flash_acc": 0.9461713419257013,
+    "pro_correct": 1253,
+    "pro_acc": 0.9499620924943138,
+    "acc_diff_pro_minus_flash": 0.0037907505686125853,
+    "both_right": 1226,
+    "both_wrong": 44,
+    "pro_only_correct": 27,
+    "flash_only_correct": 22,
+    "mcnemar_exact_p": 0.5681724128491652
+  },
+  "cost_accuracy": [
+    {
+      "model": "DeepSeek_v4_flash",
+      "display_name": "DeepSeek-V4-Flash API",
+      "accuracy": 0.946171,
+      "correct_count": 1247.999549,
+      "prompt_tokens": 495959.0,
+      "completion_tokens": 377843.0,
+      "prompt_cache_hit_tokens": 368640.0,
+      "prompt_cache_miss_tokens": 127319.0,
+      "prompt_cache_hit_rate": 0.7432872475345744,
+      "estimated_cost_usd": 0.124652892,
+      "usd_per_correct": 9.988216109523611e-05
+    },
+    {
+      "model": "DeepSeek_v4_pro",
+      "display_name": "DeepSeek-V4-Pro API",
+      "accuracy": 0.949962,
+      "correct_count": 1252.9998779999999,
+      "prompt_tokens": 495938.0,
+      "completion_tokens": 417749.0,
+      "prompt_cache_hit_tokens": 351104.0,
+      "prompt_cache_miss_tokens": 144834.0,
+      "prompt_cache_hit_rate": 0.7079594626747698,
+      "estimated_cost_usd": 0.42771717200000003,
+      "usd_per_correct": 0.00034135452006803794
+    }
+  ],
+  "accuracy_confidence_intervals": [
+    {
+      "model": "Local_Qwen25_Math_15B_CoT",
+      "display_name": "Local Qwen2.5-Math-1.5B CoT",
+      "correct": 1054,
+      "num_samples": 1319,
+      "accuracy": 0.799090219863533,
+      "wilson_ci_low": 0.776611799918406,
+      "wilson_ci_high": 0.8198314930654252
+    },
+    {
+      "model": "DeepSeek_v4_flash",
+      "display_name": "DeepSeek-V4-Flash API",
+      "correct": 1248,
+      "num_samples": 1319,
+      "accuracy": 0.9461713419257013,
+      "wilson_ci_low": 0.9326451231124187,
+      "wilson_ci_high": 0.9571061517189745
+    },
+    {
+      "model": "DeepSeek_v4_pro",
+      "display_name": "DeepSeek-V4-Pro API",
+      "correct": 1253,
+      "num_samples": 1319,
+      "accuracy": 0.9499620924943138,
+      "wilson_ci_low": 0.9368338307737062,
+      "wilson_ci_high": 0.960476928125923
+    }
+  ],
+  "error_breakdown_counts": {
+    "format_missing_but_fallback_correct": 1,
+    "missing_final_marker": 1,
+    "wrong_final_no_equation": 3
+  }
+}
